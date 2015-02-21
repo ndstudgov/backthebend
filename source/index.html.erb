@@ -7,9 +7,6 @@ page_name: signup
 
 <div class="container-fluid projects-container">
   <% data.projects.each do |project| %>
-    <%= partial("card", locals: {
-      project_name: project.name,
-      project_desc: project.description
-    }) %>
+    <%= partial("card", locals: { project: project }) %>
   <% end %>
 </div>

@@ -20,6 +20,10 @@ div.page-text-wrapper h1 {
   margin: 0;
 }
 
+div.page-text-wrapper h2 {
+  margin: 0;
+}
+
 div.page-accent-bar {
   height: 6px;
   width: 100px;
@@ -30,4 +34,8 @@ div.page-accent-bar {
 div.accent-centered {
   margin-left: auto;
   margin-right: auto;
+}
+
+div.accent-left {
+  margin-left: 0;
 }

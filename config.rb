@@ -24,10 +24,6 @@
 #   page "/admin/*"
 # end
 
-# Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
-# proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {
-#  :which_fake_page => "Rendering a fake page with a local variable" }
-
 ###
 # Helpers
 ###
@@ -41,14 +37,20 @@ configure :development do
 end
 
 # Directory index
-activate :directory_indexes
+# activate :directory_indexes
 
 # Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+helpers do
+  def project_name_to_link(project_name)
+    project_name.downcase.split.join("-")
+  end
+end
+
+# Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
+# Rendered project pages
+data.projects.each do |project|
+  proxy "projects/#{project_name_to_link(project.name)}.html", "projects/project-template.html", locals: { project: project }, ignore: true
+end
 
 set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'

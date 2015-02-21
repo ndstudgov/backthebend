@@ -36,3 +36,8 @@ div.project-card h1 {
   width: 100%;
   text-align: center;
 }
+
+a.project-card-link {
+  color: rgb(0, 0, 0);
+  text-decoration: none !important;
+}

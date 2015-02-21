@@ -8,9 +8,15 @@ div#header-icon {
 }
 
 div#header-icon h1 {
+  font-family: "Superclarendon";
+  color: #25578E;
   margin: 0;
   height: 80px;
   line-height: 80px;
+}
+
+div#header-icon a {
+  text-decoration: none !important;
 }
 
 div.header-link-item {
