@@ -1,10 +1,13 @@
 ---
 title: Welcome to Middleman
+active_page: signup
 ---
 
-<div class="welcome">
-  <h1>Middleman is Watching</h1>
-  <p class="doc">
-    <%= link_to "Read Online Documentation", "http://middlemanapp.com/" %>
-  </p><!-- .doc -->
-</div><!-- .welcome -->
+<div class="container-fluid projects-container">
+  <% data.projects.each do |project| %>
+    <%= partial("card", locals: {
+      project_name: project.name,
+      project_desc: project.description
+    }) %>
+  <% end %>
+</div>
