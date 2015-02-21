@@ -1,13 +1,14 @@
 <header class="container-fluid" id="header-bar">
 
-  <div id="header-icon" class="col-md-9">
+  <div id="header-icon" class="col-md-8">
     <h1>Back the Bend</h1>
   </div>
 
   <!-- <%# Spacer %><div class="col-md-5"></div> -->
-
-  <div class="col-md-1 col-xs-4 header-link-item <%= "header-link-item-active" if active_page == "signup" %>"><a>Sign Up</a></div>
-  <div class="col-md-1 col-xs-4 header-link-item <%= "header-link-item-active" if active_page == "about" %>"><a>About</a></div>
-  <div class="col-md-1 col-xs-4 header-link-item <%= "header-link-item-active" if active_page == "homeward" %>"><a>Homeward</a></div>
+  <div class="col-md-4 container-fluid">
+    <div class="col-xs-4 header-link-item <%= "header-link-item-active" if active_page == "signup" %>"><%= link_to "Sign Up", "index.html" %></div>
+    <div class="col-xs-3 header-link-item <%= "header-link-item-active" if active_page == "about" %>"><%= link_to "About", "about.html" %></div>
+    <div class="col-xs-5 header-link-item header-link-item-homeward <%= "header-link-item-active" if active_page == "homeward" %>"><%= link_to "Homeward Bound", "homeward.html" %></div>
+  </div>
 
 </header>

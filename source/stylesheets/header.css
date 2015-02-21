@@ -21,6 +21,13 @@ div.header-link-item {
   height: 80px;
 }
 
+@media (min-width: 992px) {
+  /* For col-md, move homeward to be right-aligned */
+  div.header-link-item-homeward {
+    text-align: right;
+  }
+}
+
 div.header-link-item a {
   display: inline-block;
   line-height: 80px;
