@@ -12,12 +12,13 @@
     <%= javascript_include_tag "https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" %>
 
     <!-- Bootstrap -->
+    <%= stylesheet_link_tag "normalize" %>
     <%= stylesheet_link_tag "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" %>
     <%= javascript_include_tag "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js" %>
 
     <!-- Custom stylesheets -->
-    <%= stylesheet_link_tag "normalize" %>
-    <%= stylesheet_link_tag "all", "project-cards", "header", "footer" %>
+    <%= stylesheet_link_tag "all", "header", "footer" %>
+    <%= stylesheet_link_tag data.page.stylesheet if data.page.stylesheet %>
     <%= javascript_include_tag  "all" %>
   </head>
 

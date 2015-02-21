@@ -1,0 +1,33 @@
+div.body-content {
+  background-color: rgb(228, 228, 228);
+  padding: 40px;
+}
+
+div.page-image-block {
+  height: 200px;
+  width: 100%;
+  background-size: auto;
+  background-position: center;
+}
+
+div.page-text-wrapper {
+  background-color: rgb(255, 255, 255);
+  padding: 40px;
+}
+
+div.page-text-wrapper h1 {
+  text-align: center;
+  margin: 0;
+}
+
+div.page-accent-bar {
+  height: 6px;
+  width: 100px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+div.accent-centered {
+  margin-left: auto;
+  margin-right: auto;
+}

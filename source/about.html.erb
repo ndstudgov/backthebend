@@ -1,0 +1,20 @@
+---
+title: About | Back the Bend
+active_page: about
+stylesheet: [page]
+page_name: about
+---
+
+<% page_name = current_page.data.page_name %>
+
+<div class="body-content">
+  <%= %(<div class="page-image-block" style="background-image: url(/#{images_dir}/#{data.pageimages[page_name]})"></div>) if data.pageimages[page_name] %>
+  <div class="page-text-wrapper">
+    <h1>About the Event</h1>
+    <div class="page-accent-bar accent-centered" <%= %(style="background-color: #{data.accentcolors[page_name]};") if data.accentcolors[page_name] %> ></div>
+    <p>Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.</p>
+    <p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur.</p>
+    <p>Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Sed posuere consectetur est at lobortis. Etiam porta sem malesuada magna mollis euismod.</p>
+    <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla.</p>
+  </div>
+</div>

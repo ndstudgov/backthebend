@@ -29,8 +29,35 @@ div.header-link-item {
 }
 
 div.header-link-item a {
+  color: rgb(0, 0, 0);
   display: inline-block;
   line-height: 80px;
   margin: 0 auto;
   text-decoration: none !important;
+}
+
+div.header-link-item a:hover {
+  border-bottom-style: solid;
+  border-bottom-width: 6px;
+  margin-top: -6px;
+  padding-top: 12px;
+  line-height: 68px;
+}
+
+div.header-link-item-signup a {
+  border-bottom-color: #2BA48B;
+}
+div.header-link-item-about a {
+  border-bottom-color: #D8DF6C;
+}
+div.header-link-item-homeward a {
+  border-bottom-color: #45B7DB;
+}
+
+div.header-link-item.header-link-item-active a {
+  border-bottom-style: solid;
+  border-bottom-width: 6px;
+  margin-top: -6px;
+  padding-top: 12px;
+  line-height: 68px;
 }
