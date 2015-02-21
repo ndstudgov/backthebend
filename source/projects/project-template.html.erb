@@ -8,7 +8,6 @@ stylesheet: [page, project]
 <% content_for(:title, page_name) %>
 
 <div class="body-content">
-  <%#= %(<div class="page-image-block" style="background-image: url(/#{images_dir}/#{data.pageimages[page_name]})"></div>) if data.pageimages[page_name] %>
   <div class="page-text-wrapper container-fluid">
     <div class="col-sm-4 col-sm-push-8 image-col">
       <%= image_tag project.image if project.image %>
