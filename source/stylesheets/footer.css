@@ -5,3 +5,11 @@ footer#footer-bar {
   padding-left: 40px;
   padding-right: 40px;
 }
+
+@media (max-width: 992px) {
+  /* For smaller than col-md, we reduce padding. */
+  footer#footer-bar {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}

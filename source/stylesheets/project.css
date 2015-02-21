@@ -1,14 +1,3 @@
-/* Media query to remove extra padding on sm+ screens */
-@media (min-width: 768px) {
-  div.project-col {
-    padding-left: 0;
-  }
-
-  div.image-col {
-    padding-right: 0;
-  }
-}
-
 div.image-col img {
   max-width: 100%;
   margin-bottom: 40px;
@@ -23,4 +12,26 @@ a.project-btn:hover {
   color: #FFFFFF;
   background-color: #008A6E;
 }
+
+div.project-col {
+  padding-left: 0;
+}
+
+div.image-col {
+  padding-right: 0;
+}
+
+@media (max-width: 768px) {
+  /* For smaller than col-md, we reduce padding. */
+  div.project-col {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  div.image-col {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
 

@@ -9,9 +9,10 @@ div#header-icon {
 
 div#header-icon h1 {
   font-family: "Superclarendon";
+  font-size: 1.8em;
+  font-weight: 500;
   color: #25578E;
   margin: 0;
-  height: 80px;
   line-height: 80px;
 }
 
@@ -25,13 +26,6 @@ div.header-link-item {
   margin: 0;
   text-align: center;
   height: 80px;
-}
-
-@media (min-width: 992px) {
-  /* For col-md, move homeward to be right-aligned */
-  div.header-link-item-homeward {
-    text-align: right;
-  }
 }
 
 div.header-link-item a {
@@ -66,4 +60,56 @@ div.header-link-item.header-link-item-active a {
   margin-top: -6px;
   padding-top: 12px;
   line-height: 68px;
+}
+
+@media (min-width: 992px) {
+  /* For col-md, move homeward to be right-aligned */
+  div.header-link-item-homeward {
+    text-align: right;
+  }
+}
+
+
+@media (max-width: 992px) {
+  /* For smaller than col-md, the links will be on their own line,
+   * so we reduce their height as well as the heading's.
+   */
+
+  header#header-bar {
+    padding: 0 20px;
+  }
+
+  div#header-icon {
+    text-align: center;
+    height: 60px;
+    padding: 0;
+  }
+
+  div#header-icon h1 {
+    line-height: 60px;
+  }
+
+  div#header-links {
+    padding: 0;
+  }
+
+  div.header-link-item {
+    height: 40px;
+  }
+
+  div.header-link-item a {
+    line-height: 30px;
+  }
+
+  div.header-link-item a:hover {
+    margin-top: -6px;
+    padding-top: 2px;
+    line-height: 38px;
+  }
+
+  div.header-link-item.header-link-item-active a {
+    margin-top: -6px;
+    padding-top: 2px;
+    line-height: 38px;
+  }
 }

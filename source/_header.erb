@@ -4,14 +4,14 @@
     <%= link_to "<h1>Back the Bend</h1>", "/index.html" %>
   </div>
 
-  <div class="col-md-4 container-fluid">
-    <div class="col-xs-4 header-link-item header-link-item-signup <%= "header-link-item-active" if active_page == "signup" %>">
+  <div id="header-links" class="col-md-4 container-fluid">
+    <div class="col-xs-3 col-sm-4 header-link-item header-link-item-signup <%= "header-link-item-active" if active_page == "signup" %>">
       <%= link_to "Sign Up", "/index.html" %>
     </div>
-    <div class="col-xs-3 header-link-item header-link-item-about <%= "header-link-item-active" if active_page == "about" %>">
+    <div class="col-xs-3 col-sm-3 header-link-item header-link-item-about <%= "header-link-item-active" if active_page == "about" %>">
       <%= link_to "About", "/about.html" %>
     </div>
-    <div class="col-xs-5 header-link-item header-link-item-homeward <%= "header-link-item-active" if active_page == "homeward" %>">
+    <div class="col-xs-6 col-sm-5 header-link-item header-link-item-homeward <%= "header-link-item-active" if active_page == "homeward" %>">
       <%= link_to "Homeward Bound", "/homeward.html" %>
     </div>
   </div>

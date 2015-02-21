@@ -39,3 +39,14 @@ div.accent-centered {
 div.accent-left {
   margin-left: 0;
 }
+
+@media (max-width: 992px) {
+  /* For smaller than col-md, we reduce padding. */
+  div.body-content {
+    padding: 20px;
+  }
+
+  div.page-text-wrapper {
+    padding: 20px;
+  }
+}

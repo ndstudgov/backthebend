@@ -29,7 +29,7 @@ div.project-card-desc-wrapper {
   background-color: rgb(242, 242, 242);
 }
 
-div.project-card h1 {
+div.project-card h2 {
   font-size: 1.6em;
   margin: 0;
   display: block;
@@ -41,3 +41,12 @@ a.project-card-link {
   color: rgb(0, 0, 0);
   text-decoration: none !important;
 }
+
+
+@media (max-width: 992px) {
+  /* For smaller than col-md, we reduce padding. */
+  div.projects-container {
+    padding: 10px;
+  }
+}
+
