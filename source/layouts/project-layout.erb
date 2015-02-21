@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!-- Shuyang Li -->
+<!-- Initially created 02/21/15 -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="Notre Dame Student Government">
+    <meta name="description" content="Back the Bend">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+
+    <!-- Use project name as title -->
+    <title><%= if project.name
+            "#{project.name} | Back the Bend"
+        else
+            "Back the Bend"
+        end %></title>
+
+    <!-- jQuery -->
+    <%= javascript_include_tag "https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" %>
+
+    <!-- Bootstrap -->
+    <%= stylesheet_link_tag "normalize" %>
+    <%= stylesheet_link_tag "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" %>
+    <%= javascript_include_tag "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js" %>
+
+    <!-- Font -->
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- Custom stylesheets -->
+    <%= stylesheet_link_tag "all", "header", "footer" %>
+    <%= stylesheet_link_tag data.page.stylesheet if data.page.stylesheet %>
+    <%= javascript_include_tag  "all" %>
+  </head>
+
+  <body class="<%= page_classes %>">
+    <%= partial("header", locals: { active_page: "signup" }) %>
+    <%= yield %>
+    <%= partial "footer" %>
+  </body>
+</html>
