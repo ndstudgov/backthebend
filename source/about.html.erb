@@ -8,7 +8,7 @@ page_name: about
 <% page_name = current_page.data.page_name %>
 
 <div class="body-content">
-  <%= %(<div class="page-image-block" style="background-image: url(/#{images_dir}/#{data.pageimages[page_name]})"></div>) if data.pageimages[page_name] %>
+  <%= %(<div class="page-image-block" style="background-image: url(#{images_dir}/#{data.pageimages[page_name]})"></div>) if data.pageimages[page_name] %>
   <div class="page-text-wrapper">
     <h1>About the Event</h1>
     <div class="page-accent-bar accent-centered" <%= %(style="background-color: #{data.accentcolors[page_name]};") if data.accentcolors[page_name] %> ></div>
