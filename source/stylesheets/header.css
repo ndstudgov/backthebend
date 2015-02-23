@@ -7,13 +7,9 @@ div#header-icon {
   height: 80px;
 }
 
-div#header-icon h1 {
-  font-family: "Superclarendon";
-  font-size: 1.8em;
-  font-weight: 500;
-  color: #25578E;
-  margin: 0;
-  line-height: 80px;
+div#header-icon img {
+  margin: 10px 0 10px 0;
+  height: 60px;
 }
 
 div#header-icon a {
@@ -81,12 +77,7 @@ div.header-link-item.header-link-item-active a {
 
   div#header-icon {
     text-align: center;
-    height: 60px;
     padding: 0;
-  }
-
-  div#header-icon h1 {
-    line-height: 60px;
   }
 
   div#header-links {
