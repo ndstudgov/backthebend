@@ -37,5 +37,6 @@
     <%= partial("header", locals: { active_page: "signup" }) %>
     <%= yield %>
     <%= partial "footer" %>
+    <%= javascript_include_tag "tracking" %>
   </body>
 </html>
