@@ -6,6 +6,8 @@ div.image-col img {
 a.project-btn {
   color: #FFFFFF;
   background-color: #2BA48B;
+  border: none;
+  padding: 12px;
 }
 
 a.project-btn:hover {
