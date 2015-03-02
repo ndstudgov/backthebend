@@ -16,6 +16,7 @@ stylesheet: [page, project]
     <div class="col-sm-8 col-sm-pull-4 project-col">
       <h2><%= project.name %></h2>
       <div class="page-accent-bar accent-left" <%= %(style="background-color: #{data.accentcolors["signup"]};") %> ></div>
+      <p><em>Hosted by <%= project.organization %></em></p>
       <% project.description.each do |paragraph| %>
         <p><%= paragraph %></p>
       <% end %>

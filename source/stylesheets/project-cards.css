@@ -3,8 +3,22 @@ div.projects-container {
   padding: 30px;
 }
 
+@media (max-width: 992px) {
+  /* For smaller than col-md, we reduce padding. */
+  div.projects-container {
+    padding: 10px;
+  }
+}
+
 div.project-card-wrapper {
   padding: 10px;
+}
+
+@media (min-width: 992px) {
+  /* For larger than col-md, we make sure the alignment of the cards is okay*/
+  div.project-card-wrapper:nth-of-type(3n+3) {
+    margin-bottom: 20px;
+  }
 }
 
 div.project-card {
@@ -41,12 +55,3 @@ a.project-card-link {
   color: rgb(0, 0, 0);
   text-decoration: none !important;
 }
-
-
-@media (max-width: 992px) {
-  /* For smaller than col-md, we reduce padding. */
-  div.projects-container {
-    padding: 10px;
-  }
-}
-

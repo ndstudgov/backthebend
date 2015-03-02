@@ -1,28 +1,165 @@
 [
     {
-        "name": "Project One",
-        "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "name": "Art Crosswalks",
+        "short_description": "Design and paint “Art Crosswalks,” for example between Notre Dame Avenue and Howard Street. Paint fun, eye-catching crosswalk art.",
+        "organization": "City of South Bend: Board of Public Works",
         "description": [
-            "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-            "Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-        ],
-        "image": "test-img.jpeg"
+            "Design and paint “Art Crosswalks,” for example between Notre Dame Avenue and Howard Street. Paint fun, eye-catching crosswalk art."
+        ]
     },
     {
-        "name": "Project Two",
-        "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "name": "Bicentennial Fire Hydrants",
+        "short_description": "Paint Bicentennial Soldier Fire Hydrants along LaSalle in East Bank and other locations. Design is at the discretion of the volunteers!",
+        "organization": "City of South Bend: Board of Public Works",
         "description": [
-            "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-        ],
-        "image": "test-img.jpeg"
+            "Paint Bicentennial Soldier Fire Hydrants along LaSalle in East Bank and other locations. Design is at the discretion of the volunteers!"
+        ]
     },
     {
-        "name": "Project Three",
-        "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "name": "Labels for Preventative Education",
+        "short_description": "Help put epoxy labels in place near drains to prevent river storm inlet pollution.",
+        "organization": "City of South Bend: Board of Public Works",
         "description": [
-            "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere consectetur est at lobortis. Donec id elit non mi porta gravida at eget metus. Donec ullamcorper nulla non metus auctor fringilla. Donec ullamcorper nulla non metus auctor fringilla. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-            "Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-        ],
-        "image": "test-img.jpeg"
+            "Help put epoxy labels in place near drains to prevent river storm inlet pollution."
+        ]
+    },
+    {
+        "name": "Photo Essay: Celebrate SB 150",
+        "short_description": "Use your smart phone cameras to capture pictures of your team, natural scenes around South Bend, public art, architectural highlights, and anything else around the city (you get the idea).",
+        "organization": "City of South Bend: Board of Public Works",
+        "description": [
+            "Use your smart phone cameras to capture pictures of your team, natural scenes around South Bend, public art, architectural highlights, and anything else around the city (you get the idea). Try snapping a shot of a building on campus, or trademark spots around South Bend, such as the Studebaker National Museum."
+        ]
+    },
+    {
+        "name": "Home Rehabilitation: Exterior",
+        "short_description": "Assist Indiana Landmarks in prepping a home at 222 Chapin Street for rehabilitation. Volunteers will remove the vinyl and fiber-board siding from the exterior of the house.",
+        "organization": "Indiana Landmarks",
+        "description": [
+            "Assist Indiana Landmarks in prepping a home at 222 Chapin Street for rehabilitation. Volunteers will remove the vinyl and fiber-board siding from the exterior of the house.",
+            "This project will involve the use of hammers and pry bars to take off the siding and wheelbarrows to transport the siding away from the house site. Indiana Landmarks revitalizes communities, reconnects us to our heritage, and saves meaningful places.",
+            "Visit <a href=\"http://www.indianalandmarks.org\">www.indianalandmarks.org</a> to learn more."
+        ]
+    },
+    {
+        "name": "Home Rehabilitation: Interior",
+        "short_description": "Assist Indiana Landmarks in prepping a home at 222 Chapin Street for rehabilitation. Volunteers will remove the vinyl and fiber-board siding from the exterior of the house.",
+        "organization": "Indiana Landmarks",
+        "description": [
+            "Assist Indiana Landmarks in prepping a home at 222 Chapin Street for rehabilitation. Volunteers will engage in interior demolition to remove plaster, lathe, and drywall from certain interior walls.",
+            "This project will involve the use of hammers, sledge hammers and pry bars as well as brooms and scoop shovels to bag the material and haul it out of the house. Indiana Landmarks revitalizes communities, reconnects us to our heritage, and saves meaningful places.",
+            "Visit <a href=\"http://www.indianalandmarks.org\">www.indianalandmarks.org</a> to learn more."
+        ]
+    },
+    {
+        "name": "Monarch Butterfly Waystation",
+        "short_description": "This project is a collaboration with the Notre Dame Center for Arts and Culture. Volunteers will lay the groundwork for the Monarch Butterfly Waystation.",
+        "organization": "ND Center for Arts & Culture",
+        "description": [
+            "This project is a collaboration with the Notre Dame Center for Arts and Culture. Volunteers will lay the groundwork for the Monarch Butterfly Waystation.",
+            "Activities involve removing grass, installing metal edging for the outline of the garden, and adding compost to the garden. Volunteers will also help clean up Unity Garden boxes. The Center's vision is to provide distinctly premier educational opportunities and inspiration via the creation and appreciation of art, the study of cultures, and community engagement.",
+            "Find out more at <a href=\"http://artsandculture.nd.edu\">artsandculture.nd.edu</a>."
+        ]
+    },
+    {
+        "name": "Rebuilding Together",
+        "short_description": "On two April Saturdays each year, approximately 1,000 skilled and unskilled volunteers join together to make repairs to about 20 homes in a selected St. Joseph County neighborhood.",
+        "organization": "Rebuilding Together",
+        "description": [
+            "On two April Saturdays each year, approximately 1,000 skilled and unskilled volunteers join together to make repairs to about 20 homes in a selected St. Joseph County neighborhood. All repairs are completed at no cost to the homeowner.",
+            "Learn more about Rebuilding Together at <a href=\"http://www.rtsjc.org\">www.rtsjc.org</a>."
+        ]
+    },
+    {
+        "name": "RCLC Mural Painting",
+        "short_description": "The Robinson Community Learning Center will be designing 12 new murals to be painted on Back the Bend day. The murals will be stenciled before the day of the event.",
+        "organization": "Robinson Community Learning Center",
+        "description": [
+            "The Robinson Community Learning Center will be designing 12 new murals to be painted on Back the Bend day. The murals will be stenciled before the day of the event. The RCLC, located on North Eddy Street, is an off-campus educational initiative that was started in 2001 by the President’s Office at the University of Notre Dame in partnership with Northeast Neighborhood residents of South Bend.",
+            "Learn more about the Robinson Community Learning Center and its mission at <a href=\"http://rclc.nd.edu\">rclc.nd.edu</a>."
+        ]
+    },
+    {
+        "name": "Barrel and Table Painting",
+        "short_description": "Volunteers, stationed at the Parks Maintenance Garage, will paint picnic tables and metal trash barrels for the upcoming season. Bright-colored or patterned tables and barrel add character to the average park parking lot.",
+        "organization": "SB Parks and Recreation",
+        "description": [
+            "Volunteers, stationed at the Parks Maintenance Garage, will paint picnic tables and metal trash barrels for the upcoming season. Bright-colored or patterned tables and barrel add character to the average park parking lot."
+        ]
+    },
+    {
+        "name": "Howard Park Landscaping",
+        "short_description": "Volunteers will plan flowerbeds in Howard Park in preparation for South Bend's 150th Birthday celebration on Memorial Day Weekend.",
+        "organization": "SB Parks and Recreation",
+        "description": [
+            "Volunteers will plan flowerbeds in Howard Park in preparation for South Bend's 150th Birthday celebration on Memorial Day Weekend.",
+            "Learn more about Howard Park Recreation Center and activities that have occurred there in the past at <a href=\"http://sbpark.org/parks/howard-park/hp-recreation-center/\">sbpark.org/parks/howard-park/hp-recreation-center/</a>."
+        ]
+    },
+    {
+        "name": "Howard Park Mural",
+        "short_description": "A Notre Dame student group is designing a new mural that will be stenciled for Back the Bend. Volunteers will paint and finish the mural on the day of the event.",
+        "organization": "SB Parks and Recreation",
+        "description": [
+            "A Notre Dame student group is designing a new mural that will be stenciled for Back the Bend. Volunteers will paint and finish the mural on the day of the event."
+        ]
+    },
+    {
+        "name": "Playground Resurfacing",
+        "short_description": "Wheel barrowing and spreading wood carpet to make sure that South Bend playgrounds meet safety standards.",
+        "organization": "SB Parks and Recreation",
+        "description": [
+            "Wheel barrowing and spreading wood carpet to make sure that South Bend playgrounds meet safety standards."
+        ]
+    },
+    {
+        "name": "Rum Village",
+        "short_description": "Help rake and finish clean up of Rum Village Park so it can be enjoyed during the spring and summer seasons.",
+        "organization": "SB Parks and Recreation",
+        "description": [
+            "Help rake and finish clean up of Rum Village Park so it can be enjoyed during the spring and summer seasons. Rum Village Park is a nature center, home to diverse wildlife, that offers civilians mountain biking trails, hiking trails, and picnic pavilions.",
+            "Learn more about the park at <a href=\"http://sbpark.org/parks/rum-village-park/\">sbpark.org/parks/rum-village-park/</a>."
+        ]
+    },
+    {
+        "name": "Gardening",
+        "short_description": "Planting in Unity Gardens. Unity Gardens is a sustainable local food system that aims to provide fresh, healthy food for anyone, and bring diverse people together.",
+        "organization": "Unity Gardens",
+        "description": [
+            "Planting in Unity Gardens. Unity Gardens is a sustainable local food system that aims to provide fresh, healthy food for anyone, and bring diverse people together.",
+            "Visit <a href=\"http://theunitygardens.org\">theunitygardens.org for more information."
+        ]
+    },
+    {
+        "name": "Heavy Lifting",
+        "short_description": "Skip your daily workout and help Unity Gardens redistribute the dirt from a large dirt pile on one of its sites. The owners say, “If you want a good workout, this one is for you.”",
+        "organization": "Unity Gardens",
+        "description": [
+            "Skip your daily workout and help Unity Gardens redistribute the dirt from a large dirt pile on one of its sites. The owners say, “If you want a good workout, this one is for you.”"
+        ]
+    },
+    {
+        "name": "Mulching Pathways",
+        "short_description": "Mulching pathways in the garden. Unity Gardens loves to see fresh looking paths in their gardens early in the year. These pathways define the garden and start the season off right.",
+        "organization": "Unity Gardens",
+        "description": [
+            "Mulching pathways in the garden. Unity Gardens loves to see fresh looking paths in their gardens early in the year. These pathways define the garden and start the season off right."
+        ]
+    },
+    {
+        "name": "Neighborhood Gateway Project",
+        "short_description": "The Neighborhood Gateway Project is a new area being built to offer a shaded place for community picnics, and serve as a bus stop. Volunteers will build the block raised beds around the area, fill them with soil, and plant them.",
+        "organization": "Unity Gardens",
+        "description": [
+            "The Neighborhood Gateway Project is a new area being built to offer a shaded place for community picnics, and serve as a bus stop. Volunteers will build the block raised beds around the area, fill them with soil, and plant them."
+        ]
+    },
+    {
+        "name": "Underground Greenhouse",
+        "short_description": "Unity Gardens is currently constructing a new underground greenhouse. Volunteers will assist in dirt backfilling the greenhouse behind its walls.",
+        "organization": "Unity Gardens",
+        "description": [
+            "Unity Gardens is currently constructing a new underground greenhouse. Volunteers will assist in dirt backfilling the greenhouse behind its walls."
+        ]
     }
 ]
