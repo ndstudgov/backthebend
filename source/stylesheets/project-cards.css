@@ -16,7 +16,14 @@ div.project-card-wrapper {
 
 @media (min-width: 992px) {
   /* For larger than col-md, we make sure the alignment of the cards is okay*/
-  div.project-card-wrapper:nth-of-type(3n+3) {
+  div.project-card-wrapper:nth-of-type(3n) {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 992px) and (min-width: 768px) {
+  /* For smaller than col-md, we make sure the alignment of the cards is okay*/
+  div.project-card-wrapper:nth-of-type(2n) {
     margin-bottom: 20px;
   }
 }
