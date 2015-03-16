@@ -7,7 +7,7 @@ div.page-image-block {
   height: 200px;
   width: 100%;
   background-size: cover;
-  background-position: center center;
+  background-position: top center;
 }
 
 div.page-text-wrapper {
@@ -22,6 +22,13 @@ div.page-text-wrapper h1 {
 
 div.page-text-wrapper h2 {
   margin: 0;
+}
+
+div.page-text-wrapper img {
+  max-width: 80%;
+  max-height: 1200px;
+  display: block;
+  margin: 0 auto;
 }
 
 div.page-accent-bar {
@@ -48,5 +55,9 @@ div.accent-left {
 
   div.page-text-wrapper {
     padding: 20px;
+  }
+
+  div.page-text-wrapper img {
+    max-width: 100%;
   }
 }
