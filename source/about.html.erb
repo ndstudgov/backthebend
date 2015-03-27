@@ -12,9 +12,17 @@ page_name: about
   <div class="page-text-wrapper">
     <h1>About the Event</h1>
     <div class="page-accent-bar accent-centered" <%= %(style="background-color: #{data.accentcolors[page_name]};") if data.accentcolors[page_name] %> ></div>
-    <p>Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod.</p>
-    <p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero, a pharetra augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur.</p>
-    <p>Nullam quis risus eget urna mollis ornare vel eu leo. Etiam porta sem malesuada magna mollis euismod. Sed posuere consectetur est at lobortis. Etiam porta sem malesuada magna mollis euismod.</p>
-    <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla.</p>
+    <p>Back the Bend 2015 is a continuation of the annual service event, CommUniversity Day. This is the seventh year that the University of Notre Dame has partnered with the South Bend community and other local colleges and universities to carry out upwards of twenty service projects on a Saturday in April. In its best year 600 volunteers participated in CommUniversity Day.</p>
+    <p>CommUniversity Day was renamed to Back the Bend in honor of the 150th Anniversary of South Bend. All of the service projects completed during Back the Bend will count towards the 150 service projects that <a href="http://www.sb150.com">SB 150</a> aims to accomplish during 2015, in celebration of the city’s birthday.</p>
+    <p>Community partners involved in providing volunteer projects for Back the Bend 2015 include the City of South Bend Public Works Department, Indiana Landmarks, the Neighborhood Resources Connection, the Northeast Neighborhood Council, the Notre Dame Center for Arts and Culture, Rebuilding Together, the Robinson Community Learning Center, South Bend Parks and Recreation, and Unity Gardens.</p>
+    <p>This year Back the Bend will be taking place on <strong>Saturday, April 11th</strong>. To browse the projects planned for this year’s service day, see the “Sign Up” tab. Volunteers should sign up online using the “Sign Up Now” button on each project page (click on the project you are interested in first, then fill out the online form).</p>
+    <p>For questions or more details please contact Jamie Grzybowski at <a href="mailto:jgrzybow@nd.edu">jgrzybow@nd.edu</a>.</p>
+    <div class="partner-img-wrapper container-fluid">
+      <% ["p-city-of-south-bend.png", "p-indiana-landmarks.jpg", "p-ndcac.jpg", "p-northeast.png", "p-nrc.png", "p-rclc.gif", "p-rebuilding-together.png", "p-sb-parks-recreation.png", "p-sb150.jpg", "p-unity-gardens.jpg"].each do |imgname| %>
+        <div class="partner-img-div col-xs-6 col-sm-3">
+        <%= image_tag imgname, :class => "partner-img" %>
+        </div>
+      <% end %>
+    </div>
   </div>
 </div>
