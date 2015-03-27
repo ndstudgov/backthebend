@@ -7,7 +7,7 @@ div.page-image-block {
   height: 300px;
   width: 100%;
   background-size: cover;
-  background-position: top center;
+  background-position: 0% 25%, center;
 }
 
 div.page-text-wrapper {
@@ -58,9 +58,6 @@ div.partner-img-div {
 @media (max-width: 992px) {
   div.page-image-block {
     height: 200px;
-    width: 100%;
-    background-size: cover;
-    background-position: top center;
   }
 
   /* For smaller than col-md, we reduce padding. */
