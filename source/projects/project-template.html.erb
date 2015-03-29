@@ -17,6 +17,7 @@ stylesheet: [page, project]
       <h2><%= project.name %></h2>
       <div class="page-accent-bar accent-left" <%= %(style="background-color: #{data.accentcolors["signup"]};") %> ></div>
       <p><em>Hosted by <%= project.organization %></em></p>
+      <%= %(<p><em>Number of Volunteers Needed: #{project.numpeople}</em></p>) if project.numpeople %>
       <% project.description.each do |paragraph| %>
         <p><%= paragraph %></p>
       <% end %>
