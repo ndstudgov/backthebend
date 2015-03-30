@@ -4,7 +4,7 @@ header#header-bar {
 }
 
 div#header-icon {
-  height: 80px;
+  height: 90px;
 }
 
 div#header-icon img {
@@ -14,6 +14,14 @@ div#header-icon img {
 
 div#header-icon a {
   text-decoration: none !important;
+}
+
+div.header-icon-subtitle {
+  width: 240px;
+  margin: -20px 0 0 60px;
+  color: #1762A3;
+  text-transform: uppercase;
+  letter-spacing: 0.155em;
 }
 
 div.header-link-item {
@@ -27,7 +35,7 @@ div.header-link-item {
 div.header-link-item a {
   color: rgb(0, 0, 0);
   display: inline-block;
-  line-height: 80px;
+  line-height: 90px;
   margin: 0 auto;
   text-decoration: none !important;
 }
@@ -37,7 +45,7 @@ div.header-link-item a:hover {
   border-bottom-width: 6px;
   margin-top: -6px;
   padding-top: 12px;
-  line-height: 68px;
+  line-height: 78px;
 }
 
 div.header-link-item-signup a {
@@ -55,7 +63,7 @@ div.header-link-item.header-link-item-active a {
   border-bottom-width: 6px;
   margin-top: -6px;
   padding-top: 12px;
-  line-height: 68px;
+  line-height: 78px;
 }
 
 @media (min-width: 992px) {
@@ -102,5 +110,12 @@ div.header-link-item.header-link-item-active a {
     margin-top: -6px;
     padding-top: 2px;
     line-height: 38px;
+  }
+
+  div.header-icon-subtitle {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 45px;
+    width: 300px;
   }
 }

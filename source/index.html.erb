@@ -1,12 +1,16 @@
 ---
 title: Back the Bend
 active_page: signup
-stylesheet: [project-cards]
+stylesheet: [announcement, project-cards]
 page_name: signup
 ---
 
+<div class="container-fluid announcement-container">
+  <p>Update: Please see the <a href="/public/schedule.pdf">Day-Of Timeline for April 11th.</a></p>
+</div>
+
 <div class="container-fluid projects-container">
   <% data.projects.each do |project| %>
-  <%= partial("card", locals: { project: project }) %>
+    <%= partial("card", locals: { project: project }) %>
   <% end %>
 </div>
