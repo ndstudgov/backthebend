@@ -60,5 +60,9 @@ div.project-card h2 {
 
 a.project-card-link {
   color: rgb(0, 0, 0);
-  text-decoration: none !important;
+  text-decoration: none;
+}
+
+div.project-card h2:hover {
+  color: rgb(120, 120, 120);
 }
