@@ -87,7 +87,8 @@
             "Learn more about the Robinson Community Learning Center and its mission at <a href=\"http://rclc.nd.edu\">rclc.nd.edu</a>.",
             "<em>Note: This project does not begin until 11:30 AM, but volunteers are still welcome at the 8:30 AM Kick-Off.</em>"
         ],
-        "numpeople": "15"
+        "numpeople": "15",
+        "isfull": true
     },
     {
         "name": "Barrel and Table Painting",
