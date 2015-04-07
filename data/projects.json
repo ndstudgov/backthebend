@@ -116,7 +116,8 @@
         "description": [
             "A Notre Dame student group is designing a new mural that will be stenciled for Back the Bend. Volunteers will paint and finish the mural on the day of the event."
         ],
-        "numpeople": "10 to 15"
+        "numpeople": "10 to 15",
+        "isfull": true
     },
     {
         "name": "Playground Resurfacing",
