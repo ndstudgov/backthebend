@@ -6,7 +6,8 @@
         "description": [
             "Design and paint “Art Crosswalks,” for example between Notre Dame Avenue and Howard Street. Paint fun, eye-catching crosswalk art."
         ],
-        "numpeople": "12"
+        "numpeople": "12",
+        "isfull": true
     },
     {
         "name": "Bicentennial Fire Hydrants",
@@ -97,7 +98,8 @@
         "description": [
             "Volunteers, stationed at the Parks Maintenance Garage, will paint picnic tables and metal trash barrels for the upcoming season. Bright-colored or patterned tables and barrel add character to the average park parking lot."
         ],
-        "numpeople": "10 to 15"
+        "numpeople": "10 to 15",
+        "isfull": true
     },
     {
         "name": "Howard Park Landscaping",
