@@ -16,7 +16,8 @@
         "description": [
             "Paint Bicentennial Soldier Fire Hydrants along LaSalle in East Bank and other locations. Design is at the discretion of the volunteers!"
         ],
-        "numpeople": "69"
+        "numpeople": "69",
+        "isfull": true
     },
     {
         "name": "Labels for Preventative Education",
@@ -148,7 +149,8 @@
             "Planting in Unity Gardens. Unity Gardens is a sustainable local food system that aims to provide fresh, healthy food for anyone, and bring diverse people together.",
             "Visit <a href=\"http://theunitygardens.org\">theunitygardens.org for more information."
         ],
-        "numpeople": "20 or more"
+        "numpeople": "20 or more",
+        "isfull": true
     },
     {
         "name": "Heavy Lifting",
@@ -213,7 +215,8 @@
             "The University of Notre Dame, in collaboration with the City of South Bend, is currently carrying out a plan to restore Bowman Creek, a two-mile long tributary, from the significant pollution that has accumulated over the years.",
             "To learn more about the restoration project visit <a href=\"www3.nd.edu/~bowman/\">www3.nd.edu/~bowman/</a>."
         ],
-        "numpeople": "20"
+        "numpeople": "20",
+        "isfull": true
     },
     {
         "name": "Historic Leeper Park Garden",
@@ -222,7 +225,8 @@
         "description": [
             "Volunteers will be constructing a 3,000 square foot ADA walkway at Madison Primary Center. The building of this garden will provide students at Madison Primary center with the opportunity to learn about growing healthy food, and also allow recovering Memorial Hospital patients to get some fresh air and interact with the students."
         ],
-        "numpeople": "20"
+        "numpeople": "20",
+        "isfull": true
     },
     {
         "name": "Mishwaka Avenue Clean Up",
