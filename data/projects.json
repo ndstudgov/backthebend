@@ -237,5 +237,25 @@
             "Volunteers will participate in this annual cleanup and more volunteers means reducing the total cleanup time. visit <a href=\"http://www.riverparksouthbend.com\">www.riverparksouthbend.com</a> to learn more about South Bend's River Park Neighborhood."
         ],
         "numpeople": "15"
+    },
+    {
+        "name": "SB150 Downtown Flowerbowl Rejuvenation",
+        "short_description": "Volunteers are needed to remove the existing soil in the downtown flowerbowls and replace it with new soil. This project is being hosted by SB150, to kick off the Serve South Bend program.",
+        "organization": "SB150",
+        "description": [
+            "Volunteers are needed to remove the existing soil in the downtown flowerbowls and replace it with new soil. This project is being hosted by SB150, to kick off the Serve South Bend program.",
+            "<em>(Meeting location: Main and Western parking lot)</em>"
+        ],
+        "numpeople": "75"
+    },
+    {
+        "name": "SB150 Riverwalk Clean-up",
+        "short_description": "This is an opportunity for volunteers to do some spring cleaning along the Riverwalk, by removing trash and debris from along the trail. This project is being hosted by SB150, to kick off the Serve South Bend program.",
+        "organization": "SB150",
+        "description": [
+            "This is an opportunity for volunteers to do some spring cleaning along the Riverwalk, by removing trash and debris from along the trail. This project is being hosted by SB150, to kick off the Serve South Bend program.",
+            "<em>(Meeting location: Seitz Park)</em>"
+        ],
+        "numpeople": "75"
     }
 ]
