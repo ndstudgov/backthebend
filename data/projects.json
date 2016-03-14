@@ -7,26 +7,26 @@
             "Design and paint “Art Crosswalks,” for example between Notre Dame Avenue and Howard Street. Paint fun, eye-catching crosswalk art."
         ],
         "numpeople": "12",
-        "isfull": true
+        "isfull": false
     },
     {
-        "name": "Bicentennial Fire Hydrants",
-        "short_description": "Paint Bicentennial Soldier Fire Hydrants along LaSalle in East Bank and other locations. Design is at the discretion of the volunteers!",
+        "name": "Fire Hydrant Painting",
+        "short_description": "Paint Bicentennial Soldier Fire Hydrants around historic South Bend and residential areas. Design is provided, but still calls for creativity!",
         "organization": "City of South Bend: Board of Public Works",
         "description": [
-            "Paint Bicentennial Soldier Fire Hydrants along LaSalle in East Bank and other locations. Design is at the discretion of the volunteers!"
+            "Paint Bicentennial Soldier Fire Hydrants around historic South Bend and residential areas. Design is provided, but still calls for creativity!"
         ],
-        "numpeople": "69",
-        "isfull": true
+        "numpeople": "20-30",
+        "isfull": false
     },
     {
-        "name": "Labels for Preventative Education",
-        "short_description": "Help put epoxy labels in place near drains to prevent river storm inlet pollution.",
+        "name": "Labeling Storm Drains",
+        "short_description": "Label the storm drains so that less waste is dumped into our waterways!",
         "organization": "City of South Bend: Board of Public Works",
         "description": [
-            "Help put epoxy labels in place near drains to prevent river storm inlet pollution."
+            "Label the storm drains so that less waste is dumped into our waterways!"
         ],
-        "numpeople": "6"
+        "numpeople": "6-8"
     },
     {
         "name": "Photo Essay: Celebrate SB 150",
@@ -35,6 +35,17 @@
         "description": [
             "Use your smart phone cameras to capture pictures of your team, natural scenes around South Bend, public art, architectural highlights, and anything else around the city (you get the idea). Try snapping a shot of a building on campus, or trademark spots around South Bend, such as the Studebaker National Museum."
         ]
+    },
+    {
+        "name": "Vintage Green (Exterior)",
+        "short_description": "Assist Indiana Landmarks in prepping a home at 222 Chapin Street for rehabilitation. Volunteers will remove the vinyl and fiber-board siding from the exterior of the house.",
+        "organization": "Indiana Landmarks",
+        "description": [
+            "Assist Indiana Landmarks in prepping a home at 222 Chapin Street for rehabilitation. Volunteers will remove the vinyl and fiber-board siding from the exterior of the house.",
+            "This project will involve the use of hammers and pry bars to take off the siding and wheelbarrows to transport the siding away from the house site. Indiana Landmarks revitalizes communities, reconnects us to our heritage, and saves meaningful places.",
+            "Visit <a href=\"http://www.indianalandmarks.org\">www.indianalandmarks.org</a> to learn more."
+        ],
+        "numpeople": "10"
     },
     {
         "name": "Vintage Green (Exterior)",
@@ -81,16 +92,16 @@
         "numpeople": "75"
     },
     {
-        "name": "RCLC Mural Painting",
-        "short_description": "The Robinson Community Learning Center will be designing 12 new murals to be painted on Back the Bend day. The murals will be stenciled before the day of the event.",
+        "name": "Mural Paintings",
+        "short_description": "The Robinson Community Learning Center will be designing 4 new murals to be painted on Back the Bend day. The murals will be stenciled before the day of the event.",
         "organization": "Robinson Community Learning Center",
         "description": [
-            "The Robinson Community Learning Center will be designing 12 new murals to be painted on Back the Bend day. The murals will be stenciled before the day of the event. The RCLC, located on North Eddy Street, is an off-campus educational initiative that was started in 2001 by the President’s Office at the University of Notre Dame in partnership with Northeast Neighborhood residents of South Bend.",
+            "The Robinson Community Learning Center will be designing 4 new murals to be painted on Back the Bend day. The murals will be stenciled before the day of the event. The RCLC, located on North Eddy Street, is an off-campus educational initiative that was started in 2001 by the President’s Office at the University of Notre Dame in partnership with Northeast Neighborhood residents of South Bend.",
             "Learn more about the Robinson Community Learning Center and its mission at <a href=\"http://rclc.nd.edu\">rclc.nd.edu</a>.",
             "<em>Note: This project does not begin until 11:30 AM, but volunteers are still welcome at the 8:30 AM Kick-Off.</em>"
         ],
-        "numpeople": "15",
-        "isfull": true
+        "numpeople": "15-20",
+        "isfull": false
     },
     {
         "name": "Barrel and Table Painting",
@@ -100,7 +111,7 @@
             "Volunteers, stationed at the Parks Maintenance Garage, will paint picnic tables and metal trash barrels for the upcoming season. Bright-colored or patterned tables and barrel add character to the average park parking lot."
         ],
         "numpeople": "10 to 15",
-        "isfull": true
+        "isfull": false
     },
     {
         "name": "Howard Park Landscaping",
@@ -120,16 +131,16 @@
             "A Notre Dame student group is designing a new mural that will be stenciled for Back the Bend. Volunteers will paint and finish the mural on the day of the event."
         ],
         "numpeople": "10 to 15",
-        "isfull": true
+        "isfull": false
     },
     {
-        "name": "Playground Resurfacing",
-        "short_description": "Wheel barrowing and spreading wood carpet to make sure that South Bend playgrounds meet safety standards.",
-        "organization": "SB Parks and Recreation",
+        "name": "Playground Maintenance",
+        "short_description": "Helping set up playground equipment and sprucing up the playground area for kids at El Campito.",
+        "organization": "El Campito",
         "description": [
-            "Wheel barrowing and spreading wood carpet to make sure that South Bend playgrounds meet safety standards."
+            "Helping set up playground equipment and sprucing up the playground area for kids at El Campito."
         ],
-        "numpeople": "20 to 30"
+        "numpeople": "12-15"
     },
     {
         "name": "Rum Village",
@@ -149,8 +160,8 @@
             "Planting in Unity Gardens. Unity Gardens is a sustainable local food system that aims to provide fresh, healthy food for anyone, and bring diverse people together.",
             "Visit <a href=\"http://theunitygardens.org\">theunitygardens.org for more information."
         ],
-        "numpeople": "20 or more",
-        "isfull": true
+        "numpeople": "500-100",
+        "isfull": false
     },
     {
         "name": "Heavy Lifting",
@@ -216,7 +227,7 @@
             "To learn more about the restoration project visit <a href=\"www3.nd.edu/~bowman/\">www3.nd.edu/~bowman/</a>."
         ],
         "numpeople": "20",
-        "isfull": true
+        "isfull": false
     },
     {
         "name": "Historic Leeper Park Garden",
@@ -226,7 +237,7 @@
             "Volunteers will be constructing a 3,000 square foot ADA walkway at Madison Primary Center. The building of this garden will provide students at Madison Primary center with the opportunity to learn about growing healthy food, and also allow recovering Memorial Hospital patients to get some fresh air and interact with the students."
         ],
         "numpeople": "20",
-        "isfull": true
+        "isfull": false
     },
     {
         "name": "Mishwaka Avenue Clean Up",
