@@ -49,7 +49,7 @@ end
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
 # Rendered project pages
 data.projects.each do |project|
-  proxy "projects/#{project_name_to_link(project.name)}.html", "projects/project-template.html", locals: { project: project }, ignore: true
+  proxy "projects/#{project_name_to_link(project.name)}.html", "projects/project-template.html", locals: { project: project }, ignore: false
 end
 
 set :css_dir, 'stylesheets'
