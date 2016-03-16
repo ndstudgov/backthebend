@@ -6,7 +6,7 @@
         "description": [
             "Design and paint “Art Crosswalks,” for example between Notre Dame Avenue and Howard Street. Paint fun, eye-catching crosswalk art."
         ],
-        "numpeople": "12",
+        "numpeople": "8-16",
         "isfull": false
     },
     {
@@ -57,6 +57,15 @@
             "Visit <a href=\"http://www.indianalandmarks.org\">www.indianalandmarks.org</a> to learn more."
         ],
         "numpeople": "10"
+    },
+    {
+        "name": "Keeping a Senior Citizen Living at Home",
+        "short_description": "REAL Services assists seniors with the goal to allow them to live in the comfort of their home. This gentleman lives on 40 acres and we need volunteers to spruce up his landscaping!",
+        "organization": "REAL Services",
+        "description": [
+            "REAL Services assists seniors with the goal to allow them to live in the comfort of their home. This gentleman lives on 40 acres and we need volunteers to spruce up his landscaping!"
+        ],
+        "numpeople": "15-20"
     },
     {
         "name": "Vintage Green (Interior)",
@@ -219,24 +228,24 @@
     },
     {
         "name": "Bowman Creek Clean-Up",
-        "short_description": "A few blocks west of Riley High School volunteers will help cleanup the area of Bowman Creek stretching from St. Joseph to Carroll street.",
+        "short_description": "A few blocks west of Riley High School and right next to the Crooked Ewe Brewery, students will help cleanup the mouth of Bowman Creek--stretching from St. Joseph to Carroll Street.",
         "organization": "City of South Bend: Public Works Department",
         "description": [
-            "A few blocks west of Riley High School volunteers will help cleanup the area of Bowman Creek stretching from St. Joseph to Carroll street.",
+            "A few blocks west of Riley High School and right next to the Crooked Ewe Brewery, students will help cleanup the mouth of Bowman Creek--stretching from St. Joseph to Carroll Street.",
             "The University of Notre Dame, in collaboration with the City of South Bend, is currently carrying out a plan to restore Bowman Creek, a two-mile long tributary, from the significant pollution that has accumulated over the years.",
             "To learn more about the restoration project visit <a href=\"www3.nd.edu/~bowman/\">www3.nd.edu/~bowman/</a>."
         ],
-        "numpeople": "20",
+        "numpeople": "30-40",
         "isfull": false
     },
     {
         "name": "Historic Leeper Park Garden",
-        "short_description": "Volunteers will be constructing a 3,000 square foot ADA walkway at Madison Primary Center. The building of this garden will allow recovering Memorial Hospital patients to get some fresh air and interact with the students.",
-        "organization": "Madison Primary Center",
+        "short_description": "Leeper Park is undergoing a collaborative effort to build a garden with the community. Our volunteers will lay brick on two small patios that will serve as sitting areas by the gardens. There will also be work on irrigation systems and garden maintenance.",
+        "organization": "City of South Bend: Board of Public Works & The Department of Parks & Recreation",
         "description": [
-            "Volunteers will be constructing a 3,000 square foot ADA walkway at Madison Primary Center. The building of this garden will provide students at Madison Primary center with the opportunity to learn about growing healthy food, and also allow recovering Memorial Hospital patients to get some fresh air and interact with the students."
+            "Leeper Park is undergoing a collaborative effort to build a garden with the community. Our volunteers will lay brick on two small patios that will serve as sitting areas by the gardens. There will also be work on irrigation systems and garden maintenance."
         ],
-        "numpeople": "20",
+        "numpeople": "60",
         "isfull": false
     },
     {
@@ -260,13 +269,33 @@
         "numpeople": "75"
     },
     {
-        "name": "SB150 Riverwalk Clean-up",
-        "short_description": "This is an opportunity for volunteers to do some spring cleaning along the Riverwalk, by removing trash and debris from along the trail. This project is being hosted by SB150, to kick off the Serve South Bend program.",
-        "organization": "SB150",
+        "name": "Colfax Bridge Mural",
+        "short_description": "The design is underway! Volunteers will paint and finish the South Bend-inspired mural on the day of the event.",
+        "organization": "The Department of Parks & Recreation",
         "description": [
-            "This is an opportunity for volunteers to do some spring cleaning along the Riverwalk, by removing trash and debris from along the trail. This project is being hosted by SB150, to kick off the Serve South Bend program.",
+            "The design is underway! Volunteers will paint and finish the South Bend-inspired mural on the day of the event.",
+            "<em>(Meeting location: Main and Western parking lot)</em>"
+        ],
+        "numpeople": "12-15"
+    },
+    {
+        "name": "Packaging Boxes to Revitalize St. Joseph County",
+        "short_description": "Rebuilding Together helps revitalize communities through assisting residents with their personal and professional lives. This event will include the packaging of supplies at their warehouse that will be used for the Skilled Trades Day and Community Volunteer Build Day.",
+        "organization": "Rebuilding Together",
+        "description": [
+            "Rebuilding Together helps revitalize communities through assisting residents with their personal and professional lives. This event will include the packaging of supplies at their warehouse that will be used for the Skilled Trades Day and Community Volunteer Build Day.",
+            "<em>(Meeting location: Main and Western parking lot)</em>"
+        ],
+        "numpeople": "10-12"
+    },
+    {
+        "name": "Riverwalk Clean-up",
+        "short_description": "This is an opportunity for volunteers to do some spring cleaning along the Riverwalk, by removing trash and debris from along the trail.",
+        "organization": "The Department of Parks & Recreation",
+        "description": [
+            "This is an opportunity for volunteers to do some spring cleaning along the Riverwalk, by removing trash and debris from along the trail.",
             "<em>(Meeting location: Seitz Park)</em>"
         ],
-        "numpeople": "75"
+        "numpeople": "30-40"
     }
 ]
