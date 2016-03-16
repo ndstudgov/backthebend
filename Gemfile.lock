@@ -7,6 +7,7 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
+    addressable (2.4.0)
     celluloid (0.16.0)
       timers (~> 4.0.0)
     chunky_png (1.3.4)
@@ -32,6 +33,8 @@ GEM
     erubis (2.7.0)
     eventmachine (1.0.7)
     execjs (2.3.0)
+    fastimage (1.8.1)
+      addressable (~> 2.3, >= 2.3.5)
     ffi (1.9.6)
     haml (4.0.6)
       tilt
@@ -131,8 +134,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  fastimage (= 1.8.1)
   middleman (~> 3.3.9)
   middleman-deploy (~> 1.0)
   middleman-livereload (~> 3.1.0)
   tzinfo-data
   wdm (~> 0.1.0)
+
+BUNDLED WITH
+   1.11.2
