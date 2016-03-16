@@ -29,25 +29,6 @@
         "numpeople": "6-8"
     },
     {
-        "name": "Photo Essay: Celebrate SB 150",
-        "short_description": "Use your smart phone cameras to capture pictures of your team, natural scenes around South Bend, public art, architectural highlights, and anything else around the city (you get the idea).",
-        "organization": "City of South Bend: Board of Public Works",
-        "description": [
-            "Use your smart phone cameras to capture pictures of your team, natural scenes around South Bend, public art, architectural highlights, and anything else around the city (you get the idea). Try snapping a shot of a building on campus, or trademark spots around South Bend, such as the Studebaker National Museum."
-        ]
-    },
-    {
-        "name": "Vintage Green (Exterior)",
-        "short_description": "Assist Indiana Landmarks in prepping a home at 222 Chapin Street for rehabilitation. Volunteers will remove the vinyl and fiber-board siding from the exterior of the house.",
-        "organization": "Indiana Landmarks",
-        "description": [
-            "Assist Indiana Landmarks in prepping a home at 222 Chapin Street for rehabilitation. Volunteers will remove the vinyl and fiber-board siding from the exterior of the house.",
-            "This project will involve the use of hammers and pry bars to take off the siding and wheelbarrows to transport the siding away from the house site. Indiana Landmarks revitalizes communities, reconnects us to our heritage, and saves meaningful places.",
-            "Visit <a href=\"http://www.indianalandmarks.org\">www.indianalandmarks.org</a> to learn more."
-        ],
-        "numpeople": "10"
-    },
-    {
         "name": "Keeping a Senior Citizen Living at Home",
         "short_description": "REAL Services assists seniors with the goal to allow them to live in the comfort of their home. This gentleman lives on 40 acres and we need volunteers to spruce up his landscaping!",
         "organization": "REAL Services",
@@ -57,37 +38,15 @@
         "numpeople": "15-20"
     },
     {
-        "name": "Vintage Green (Interior)",
-        "short_description": "Assist Indiana Landmarks in prepping a home at 222 Chapin Street for rehabilitation. Volunteers will remove the vinyl and fiber-board siding from the exterior of the house.",
-        "organization": "Indiana Landmarks",
-        "description": [
-            "Assist Indiana Landmarks in prepping a home at 222 Chapin Street for rehabilitation. Volunteers will engage in interior demolition to remove plaster, lathe, and drywall from certain interior walls.",
-            "This project will involve the use of hammers, sledge hammers and pry bars as well as brooms and scoop shovels to bag the material and haul it out of the house. Indiana Landmarks revitalizes communities, reconnects us to our heritage, and saves meaningful places.",
-            "Visit <a href=\"http://www.indianalandmarks.org\">www.indianalandmarks.org</a> to learn more."
-        ],
-        "numpeople": "10"
-    },
-    {
-        "name": "Monarch Butterfly Waystation",
-        "short_description": "This project is a collaboration with the Notre Dame Center for Arts and Culture. Volunteers will lay the groundwork for the Monarch Butterfly Waystation.",
-        "organization": "ND Center for Arts & Culture",
-        "description": [
-            "This project is a collaboration with the Notre Dame Center for Arts and Culture. Volunteers will lay the groundwork for the Monarch Butterfly Waystation.",
-            "Activities involve removing grass, installing metal edging for the outline of the garden, and adding compost to the garden. Volunteers will also help clean up Unity Garden boxes. The Center's vision is to provide distinctly premier educational opportunities and inspiration via the creation and appreciation of art, the study of cultures, and community engagement.",
-            "Find out more at <a href=\"http://artsandculture.nd.edu\">artsandculture.nd.edu</a>."
-        ],
-        "numpeople": "10"
-    },
-    {
-        "name": "Rebuilding Together",
-        "short_description": "On two April Saturdays each year, approximately 1,000 skilled and unskilled volunteers join together to make repairs to about 20 homes in a selected St. Joseph County neighborhood.",
+        "name": "Packaging Boxes to Revitalize St. Joseph County",
+        "short_description": "Rebuilding Together helps revitalize communities through assisting residents with their personal and professional lives. This event will include the packaging of supplies at their warehouse that will be used for the Skilled Trades Day and Community Volunteer Build Day.",
         "organization": "Rebuilding Together",
         "description": [
-            "On two April Saturdays each year, approximately 1,000 skilled and unskilled volunteers join together to make repairs to about 20 homes in a selected St. Joseph County neighborhood. All repairs are completed at no cost to the homeowner.",
+            "Rebuilding Together helps revitalize communities through assisting residents with their personal and professional lives. This event will include the packaging of supplies at their warehouse that will be used for the Skilled Trades Day and Community Volunteer Build Day.",
             "Learn more about Rebuilding Together at <a href=\"http://www.rtsjc.org\">www.rtsjc.org</a>.",
             "<em>Note: Rebuilding Together begins before all other projects on this day. Volunteers will be picked up on Notre Dame's campus at 7:45 AM and will receive breakfast at the Rebuilding Together control center.</em>"
         ],
-        "numpeople": "75"
+        "numpeople": "10-12"
     },
     {
         "name": "Mural Paintings",
@@ -102,36 +61,6 @@
         "isfull": false
     },
     {
-        "name": "Barrel and Table Painting",
-        "short_description": "Volunteers, stationed at the Parks Maintenance Garage, will paint picnic tables and metal trash barrels for the upcoming season.",
-        "organization": "SB Parks and Recreation",
-        "description": [
-            "Volunteers, stationed at the Parks Maintenance Garage, will paint picnic tables and metal trash barrels for the upcoming season. Bright-colored or patterned tables and barrel add character to the average park parking lot."
-        ],
-        "numpeople": "10 to 15",
-        "isfull": false
-    },
-    {
-        "name": "Howard Park Landscaping",
-        "short_description": "Volunteers will plan flowerbeds in Howard Park in preparation for South Bend's 150th Birthday celebration on Memorial Day Weekend.",
-        "organization": "SB Parks and Recreation",
-        "description": [
-            "Volunteers will plan flowerbeds in Howard Park in preparation for South Bend's 150th Birthday celebration on Memorial Day Weekend.",
-            "Learn more about Howard Park Recreation Center and activities that have occurred there in the past at <a href=\"http://sbpark.org/parks/howard-park/hp-recreation-center/\">sbpark.org/parks/howard-park/hp-recreation-center/</a>."
-        ],
-        "numpeople": "20 to 30"
-    },
-    {
-        "name": "Howard Park Mural",
-        "short_description": "A Notre Dame student group is designing a new mural that will be stenciled for Back the Bend. Volunteers will paint and finish the mural on the day of the event.",
-        "organization": "SB Parks and Recreation",
-        "description": [
-            "A Notre Dame student group is designing a new mural that will be stenciled for Back the Bend. Volunteers will paint and finish the mural on the day of the event."
-        ],
-        "numpeople": "10 to 15",
-        "isfull": false
-    },
-    {
         "name": "Playground Maintenance",
         "short_description": "Helping set up playground equipment and sprucing up the playground area for kids at El Campito.",
         "organization": "El Campito",
@@ -141,16 +70,6 @@
         "numpeople": "12-15"
     },
     {
-        "name": "Rum Village",
-        "short_description": "Help rake and finish clean up of Rum Village Park so it can be enjoyed during the spring and summer seasons.",
-        "organization": "SB Parks and Recreation",
-        "description": [
-            "Help rake and finish clean up of Rum Village Park so it can be enjoyed during the spring and summer seasons. Rum Village Park is a nature center, home to diverse wildlife, that offers civilians mountain biking trails, hiking trails, and picnic pavilions.",
-            "Learn more about the park at <a href=\"http://sbpark.org/parks/rum-village-park/\">sbpark.org/parks/rum-village-park/</a>."
-        ],
-        "numpeople": 25
-    },
-    {
         "name": "Gardening",
         "short_description": "Planting in Unity Gardens. Unity Gardens is a sustainable local food system that aims to provide fresh, healthy food for anyone, and bring diverse people together.",
         "organization": "Unity Gardens",
@@ -158,62 +77,8 @@
             "Planting in Unity Gardens. Unity Gardens is a sustainable local food system that aims to provide fresh, healthy food for anyone, and bring diverse people together.",
             "Visit <a href=\"http://theunitygardens.org\">theunitygardens.org for more information."
         ],
-        "numpeople": "500-100",
+        "numpeople": "50-100",
         "isfull": false
-    },
-    {
-        "name": "Heavy Lifting",
-        "short_description": "Skip your daily workout and help Unity Gardens redistribute the dirt from a large dirt pile on one of its sites. The owners say, “If you want a good workout, this one is for you.”",
-        "organization": "Unity Gardens",
-        "description": [
-            "Skip your daily workout and help Unity Gardens redistribute the dirt from a large dirt pile on one of its sites. The owners say, “If you want a good workout, this one is for you.”"
-        ],
-        "numpeople": "20 or more"
-    },
-    {
-        "name": "Mulching Pathways",
-        "short_description": "Mulching pathways in the garden. Unity Gardens loves to see fresh looking paths in their gardens early in the year. These pathways define the garden and start the season off right.",
-        "organization": "Unity Gardens",
-        "description": [
-            "Mulching pathways in the garden. Unity Gardens loves to see fresh looking paths in their gardens early in the year. These pathways define the garden and start the season off right."
-        ],
-        "numpeople": "20 or more"
-    },
-    {
-        "name": "Neighborhood Gateway Project",
-        "short_description": "The Neighborhood Gateway Project is a new area being built to offer a shaded place for community picnics, and serve as a bus stop. Volunteers will build the block raised beds around the area, fill them with soil, and plant them.",
-        "organization": "Unity Gardens",
-        "description": [
-            "The Neighborhood Gateway Project is a new area being built to offer a shaded place for community picnics, and serve as a bus stop. Volunteers will build the block raised beds around the area, fill them with soil, and plant them."
-        ],
-        "numpeople": "20 or more"
-    },
-    {
-        "name": "Underground Greenhouse",
-        "short_description": "Unity Gardens is currently constructing a new underground greenhouse. Volunteers will assist in dirt backfilling the greenhouse behind its walls.",
-        "organization": "Unity Gardens",
-        "description": [
-            "Unity Gardens is currently constructing a new underground greenhouse. Volunteers will assist in dirt backfilling the greenhouse behind its walls."
-        ],
-        "numpeople": "20 or more"
-    },
-    {
-        "name": "Kelly Park Clean Up",
-        "short_description": "SB Parks and Recreation classifies Kelly Park as a Block Park, containing a playground, picnic tables, and two basketball hoops. This project will involve cleaning up brush around the fence line of the park.",
-        "organization": "Northeast Neighborhood Council, Neighborhood Resources Connection",
-        "description": [
-            "SB Parks and Recreation classifies Kelly Park as a Block Park, containing a playground, picnic tables, and two basketball hoops. This project will involve cleaning up brush around the fence line of the park. By doing so, volunteers will be helping upkeep the park for South Bend residents living in the immediate vicinity."
-        ],
-        "numpeople": "15"
-    },
-    {
-        "name": "Quigley Pocket Park Clean Up",
-        "short_description": "Quigley Pocket Park is a pocket park at the corner of Notre Dame Avenue and South Bend Avenue that the city maintains out of courtesy. Volunteers will contribute to this maintenance by raking around the park and cleaning up its flower beds.",
-        "organization": "Quigley Pocket Park",
-        "description": [
-            "Quigley Pocket Park is a pocket park at the corner of Notre Dame Avenue and South Bend Avenue that the city maintains out of courtesy. Volunteers will contribute to this maintenance by raking around the park and cleaning up its flower beds."
-        ],
-        "numpeople": "12"
     },
     {
         "name": "Bowman Creek Clean-Up",
@@ -238,26 +103,6 @@
         "isfull": false
     },
     {
-        "name": "Mishwaka Avenue Clean Up",
-        "short_description": "Volunteers will participate in this annual cleanup and more volunteers means reducing the total cleanup time. visit www.riverparksouthbend.com to learn more about South Bend's River Park Neighborhood.",
-        "organization": "River Park Business Association",
-        "description": [
-            "Every spring, members of the River Park Business Association get together on a Saturday morning in April or May and walk Mishawaka Avenue from Logan Street to Farmer's Market collecting all that winter has left behind along the curbs and in front of our businesses. The River Park Business Association could definitely use some help carrying out the clean up this year!",
-            "Volunteers will participate in this annual cleanup and more volunteers means reducing the total cleanup time. visit <a href=\"http://www.riverparksouthbend.com\">www.riverparksouthbend.com</a> to learn more about South Bend's River Park Neighborhood."
-        ],
-        "numpeople": "15"
-    },
-    {
-        "name": "SB150 Downtown Flowerbowl Rejuvenation",
-        "short_description": "Volunteers are needed to remove the existing soil in the downtown flowerbowls and replace it with new soil. This project is being hosted by SB150, to kick off the Serve South Bend program.",
-        "organization": "SB150",
-        "description": [
-            "Volunteers are needed to remove the existing soil in the downtown flowerbowls and replace it with new soil. This project is being hosted by SB150, to kick off the Serve South Bend program.",
-            "<em>(Meeting location: Main and Western parking lot)</em>"
-        ],
-        "numpeople": "75"
-    },
-    {
         "name": "Colfax Bridge Mural",
         "short_description": "The design is underway! Volunteers will paint and finish the South Bend-inspired mural on the day of the event.",
         "organization": "The Department of Parks & Recreation",
@@ -266,16 +111,6 @@
             "<em>(Meeting location: Main and Western parking lot)</em>"
         ],
         "numpeople": "12-15"
-    },
-    {
-        "name": "Packaging Boxes to Revitalize St. Joseph County",
-        "short_description": "Rebuilding Together helps revitalize communities through assisting residents with their personal and professional lives. This event will include the packaging of supplies at their warehouse that will be used for the Skilled Trades Day and Community Volunteer Build Day.",
-        "organization": "Rebuilding Together",
-        "description": [
-            "Rebuilding Together helps revitalize communities through assisting residents with their personal and professional lives. This event will include the packaging of supplies at their warehouse that will be used for the Skilled Trades Day and Community Volunteer Build Day.",
-            "<em>(Meeting location: Main and Western parking lot)</em>"
-        ],
-        "numpeople": "10-12"
     },
     {
         "name": "Riverwalk Clean-up",
