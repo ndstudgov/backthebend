@@ -50,12 +50,10 @@
     },
     {
         "name": "Mural Paintings",
-        "short_description": "The Robinson Community Learning Center will be designing 4 new murals to be painted on Back the Bend day. The murals will be stenciled before the day of the event.",
+        "short_description": "The Robinson Community Learning Center will be repainting 12 murals on their exterior walls. The murals will be stenciled before the day of the event. The RCLC, located on North Eddy Street, is an off-campus educational initiative that was started in 2001 by the President’s Office at the University of Notre Dame in partnership with Northeast Neighborhood residents of South Bend.",
         "organization": "Robinson Community Learning Center",
         "description": [
-            "The Robinson Community Learning Center will be designing 4 new murals to be painted on Back the Bend day. The murals will be stenciled before the day of the event. The RCLC, located on North Eddy Street, is an off-campus educational initiative that was started in 2001 by the President’s Office at the University of Notre Dame in partnership with Northeast Neighborhood residents of South Bend.",
-            "Learn more about the Robinson Community Learning Center and its mission at <a href=\"http://rclc.nd.edu\">rclc.nd.edu</a>.",
-            "<em>Note: This project does not begin until 11:30 AM, but volunteers are still welcome at the 8:30 AM Kick-Off.</em>"
+            "The Robinson Community Learning Center will be repainting 12 murals on their exterior walls. The murals will be stenciled before the day of the event. The RCLC, located on North Eddy Street, is an off-campus educational initiative that was started in 2001 by the President’s Office at the University of Notre Dame in partnership with Northeast Neighborhood residents of South Bend."
         ],
         "numpeople": "15-20",
         "isfull": false
@@ -121,5 +119,14 @@
             "<em>(Meeting location: Seitz Park)</em>"
         ],
         "numpeople": "30-40"
+    },
+    {
+        "name": "Historic 1905 House",
+        "short_description": "Volunteers are needed to complete various construction, painting, and cleaning tasks at the historic 1905 house in South Bend.",
+        "organization": "Indian Landmarks",
+        "description": [
+            "Volunteers are needed to complete various construction, painting, and cleaning tasks at the historic 1905 house in South Bend."
+        ],
+        "numpeople": "20"
     }
 ]
