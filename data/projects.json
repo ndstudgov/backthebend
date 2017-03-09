@@ -1,130 +1,143 @@
 [
     {
-        "name": "Art Crosswalks",
-        "short_description": "Design and paint “Art Crosswalks,” for example between Notre Dame Avenue and Howard Street. Paint fun, eye-catching crosswalk art.",
-        "organization": "City of South Bend: Board of Public Works",
+        "name": "Historic Kizer House Project",
+        "short_description": "Interior Demolition of the Historic Kizer House",
+        "organization": "Indiana Landmarks",
         "description": [
-            "Design and paint “Art Crosswalks,” for example between Notre Dame Avenue and Howard Street. Paint fun, eye-catching crosswalk art."
+            "Assist Indiana Landmarks in pre-construction demolition of interior spaces as it readies the building for community meeting space, receptions, gallery and office uses.  Work will involve removing flooring, plaster, drywall and wood partitions. Wear closed toe shoes. No shorts."
         ],
-        "numpeople": "8-16",
+        "numpeople": "40",
         "isfull": false
     },
     {
-        "name": "Fire Hydrant Painting",
-        "short_description": "Paint Bicentennial Soldier Fire Hydrants around historic South Bend and residential areas. Design is provided, but still calls for creativity!",
-        "organization": "City of South Bend: Board of Public Works",
+        "name": "Historic Tiny House Project",
+        "short_description": "Interior painting and outdoor landscaping of Historic Tiny House",
+        "organization": "Indiana Landmarks",
         "description": [
-            "Paint Bicentennial Soldier Fire Hydrants around historic South Bend and residential areas. Design is provided, but still calls for creativity!"
+            "Help Indiana Landmarks finish up the interior painting and install landscaping on this historic tiny house. At less than 900 square feet, the home was saved from demolition last year and will soon be for sale. Help paint interior rooms or install landscape plants and mulch."
         ],
-        "numpeople": "20-30",
+        "numpeople": "6 - Landscaping; 10 - Painting",
         "isfull": false
     },
     {
-        "name": "Labeling Storm Drains",
-        "short_description": "Label the storm drains so that less waste is dumped into our waterways!",
+        "name": "Unity Gardens Volunteer Opportunities",
+        "short_description": "Mulching, ground prep, transferring plants, laying bricks, and more",
         "organization": "City of South Bend: Board of Public Works",
         "description": [
-            "Label the storm drains so that less waste is dumped into our waterways!"
+            "Unity Gardens is a sustainable local food system that provides free community gardens and educational opportunities throughout South Bend. They aim to provide fresh, healthy food for anyone, and bring diverse people together."
         ],
-        "numpeople": "6-8"
+        "numpeople": "100",
+        "isfull": false
     },
     {
-        "name": "Keeping a Senior Citizen Living at Home",
-        "short_description": "REAL Services assists seniors with the goal to allow them to live in the comfort of their home. This gentleman lives on 40 acres and we need volunteers to spruce up his landscaping!",
-        "organization": "REAL Services",
-        "description": [
-            "REAL Services assists seniors with the goal to allow them to live in the comfort of their home. This gentleman lives on 40 acres and we need volunteers to spruce up his landscaping!"
-        ],
-        "numpeople": "15-20"
-    },
-    {
-        "name": "Packaging Boxes to Revitalize St. Joseph County",
-        "short_description": "Rebuilding Together helps revitalize communities through assisting residents with their personal and professional lives. This event will include the packaging of supplies at their warehouse that will be used for the Skilled Trades Day and Community Volunteer Build Day.",
-        "organization": "Rebuilding Together",
-        "description": [
-            "Rebuilding Together helps revitalize communities through assisting residents with their personal and professional lives. This event will include the packaging of supplies at their warehouse that will be used for the Skilled Trades Day and Community Volunteer Build Day.",
-            "Learn more about Rebuilding Together at <a href=\"http://www.rtsjc.org\">www.rtsjc.org</a>.",
-            "<em>Note: Rebuilding Together begins before all other projects on this day. Volunteers will be picked up on Notre Dame's campus at 7:45 AM and will receive breakfast at the Rebuilding Together control center.</em>"
-        ],
-        "numpeople": "10-12"
-    },
-    {
-        "name": "Mural Paintings",
-        "short_description": "The Robinson Community Learning Center will be repainting 12 murals on their exterior walls. The murals will be stenciled before the day of the event. The RCLC, located on North Eddy Street, is an off-campus educational initiative that was started in 2001 by the President’s Office at the University of Notre Dame in partnership with Northeast Neighborhood residents of South Bend.",
+        "name": "Robinson Community Learning Center Volunteer Opportunities",
+        "short_description": "Mural painting and gardening",
         "organization": "Robinson Community Learning Center",
         "description": [
-            "The Robinson Community Learning Center will be repainting 12 murals on their exterior walls. The murals will be stenciled before the day of the event. The RCLC, located on North Eddy Street, is an off-campus educational initiative that was started in 2001 by the President’s Office at the University of Notre Dame in partnership with Northeast Neighborhood residents of South Bend."
+            "The Robinson Community Learning Center (RCLC) was started in 2001 as an off-campus educational initiative of the President’s Office at the University of Notre Dame in partnership with Northeast Neighborhood residents of South Bend. Volunteers will be repainting 15 of their exterior murals and assisting with basic gardening work at the Center."
         ],
-        "numpeople": "15-20",
+        "numpeople": "15 - Painting; 5 - Gardening",
         "isfull": false
     },
     {
-        "name": "Playground Maintenance",
-        "short_description": "Helping set up playground equipment and sprucing up the playground area for kids at El Campito.",
-        "organization": "El Campito",
+        "name": "Leeper Park",
+        "short_description": "Ground prep, concrete work, cleanup, painting, and basic demolition (starts at 8:00 AM)",
+        "organization": "Leeper Park",
         "description": [
-            "Helping set up playground equipment and sprucing up the playground area for kids at El Campito."
-        ],
-        "numpeople": "12-15"
-    },
-    {
-        "name": "Gardening",
-        "short_description": "Planting in Unity Gardens. Unity Gardens is a sustainable local food system that aims to provide fresh, healthy food for anyone, and bring diverse people together.",
-        "organization": "Unity Gardens",
-        "description": [
-            "Planting in Unity Gardens. Unity Gardens is a sustainable local food system that aims to provide fresh, healthy food for anyone, and bring diverse people together.",
-            "Visit <a href=\"http://theunitygardens.org\">theunitygardens.org for more information."
-        ],
-        "numpeople": "50-100",
-        "isfull": false
-    },
-    {
-        "name": "Bowman Creek Clean-Up",
-        "short_description": "A few blocks west of Riley High School and right next to the Crooked Ewe Brewery, students will help cleanup the mouth of Bowman Creek--stretching from St. Joseph to Carroll Street.",
-        "organization": "City of South Bend: Public Works Department",
-        "description": [
-            "A few blocks west of Riley High School and right next to the Crooked Ewe Brewery, students will help cleanup the mouth of Bowman Creek--stretching from St. Joseph to Carroll Street.",
-            "The University of Notre Dame, in collaboration with the City of South Bend, is currently carrying out a plan to restore Bowman Creek, a two-mile long tributary, from the significant pollution that has accumulated over the years.",
-            "To learn more about the restoration project visit <a href=\"www3.nd.edu/~bowman/\">www3.nd.edu/~bowman/</a>."
+            "Help prepare Leeper Park for a relaxing, beautiful lavender labyrinth landscape feature which will serve the students of Madison Primary Center for years to come. Volunteers will help with basic concrete work and site preparation.",
+            "Also, help with cleanup and restore an ampitheater in one of South Bend's beautiful, historic parks."
         ],
         "numpeople": "30-40",
         "isfull": false
     },
     {
-        "name": "Historic Leeper Park Garden",
-        "short_description": "Leeper Park is undergoing a collaborative effort to build a garden with the community. Our volunteers will lay brick on two small patios that will serve as sitting areas by the gardens. There will also be work on irrigation systems and garden maintenance.",
-        "organization": "City of South Bend: Board of Public Works & The Department of Parks & Recreation",
+        "name": "Kelly Park Cleanup",
+        "short_description": "Trash cleanup and basic gardening",
+        "organization": "Kelly Park",
         "description": [
-            "Leeper Park is undergoing a collaborative effort to build a garden with the community. Our volunteers will lay brick on two small patios that will serve as sitting areas by the gardens. There will also be work on irrigation systems and garden maintenance."
+            "Volunteers will work at  Kelly Park on a series of beautifying and cleanup projects to promote the general health and look of the grounds."
         ],
-        "numpeople": "60",
+        "numpeople": "15",
         "isfull": false
     },
     {
-        "name": "Colfax Bridge Mural",
-        "short_description": "The design is underway! Volunteers will paint and finish the South Bend-inspired mural on the day of the event.",
-        "organization": "The Department of Parks & Recreation",
+        "name": "Bowman Creek Cleanup",
+        "short_description": "Help clean and restore a troubled creek",
+        "organization": "City of South Bend",
         "description": [
-            "The design is underway! Volunteers will paint and finish the South Bend-inspired mural on the day of the event."
+            "A few blocks west of Riley High School and right next to the Crooked Ewe Brewery, students will help cleanup the mouth of Bowman Creek--stretching from St. Joseph to Carroll Street.The University of Notre Dame, in collaboration with the City of South Bend and other local universities, is currently carrying out a plan to restore the two-mile long tributary from the significant pollution that has accumulated over the years"
         ],
-        "numpeople": "12-15"
+        "numpeople": "20",
+        "isfull": false
     },
     {
-        "name": "Riverwalk Clean-up",
-        "short_description": "This is an opportunity for volunteers to do some spring cleaning along the Riverwalk, by removing trash and debris from along the trail.",
-        "organization": "The Department of Parks & Recreation",
+        "name": "Native Tree and Plant Nursery Preparation",
+        "short_description": "Cleanup and basic gardening",
+        "organization": "City of South Bend",
         "description": [
-            "This is an opportunity for volunteers to do some spring cleaning along the Riverwalk, by removing trash and debris from along the trail."
+            "Volunteers will help with the basic tasks needed to prepare vacant lots in the Southeast neighborhood for repurposing as native tree and plant nurseries."
         ],
-        "numpeople": "30-40"
+        "numpeople": "15",
+        "isfull": false
     },
     {
-        "name": "Historic 1905 House",
-        "short_description": "Volunteers are needed to complete various construction, painting, and cleaning tasks at the historic 1905 house in South Bend.",
-        "organization": "Indian Landmarks",
+        "name": "Fire Hydrant Painting",
+        "short_description": "Paint fire hydrants is historic South Bend",
+        "organization": "City of South Bend: Public Works Department",
         "description": [
-            "Volunteers are needed to complete various construction, painting, and cleaning tasks at the historic 1905 house in South Bend."
+            "Paint Bicentennial Soldier Fire Hydrants around historic South Bend and residential areas. Design is provided, but still calls for creativity!"
         ],
-        "numpeople": "20"
+        "numpeople": "30",
+        "isfull": false
+    },
+    {
+        "name": "Painting in Downtown South Bend",
+        "short_description": "Help paint in the Wayne Street Garage",
+        "organization": "DTSB",
+        "description": [
+            "Volunteers will help DTSB with cleanup and paint in the Wayne Street Garage."
+        ],
+        "numpeople": "30",
+        "isfull": false
+    },
+    {
+        "name": "Egg Stravaganza Volunteers",
+        "short_description": "Easter egg hiding, kids games, and activities",
+        "organization": "DTSB",
+        "description": [
+            "Help DTSB with their annual easter egg hunt! Hide eggs and run kids' activities, including potato sack races and more"
+        ],
+        "numpeople": "15",
+        "isfull": false
+    },
+    {
+        "name": "Keep South Bend's Water Clean!",
+        "short_description": "Storm drain labeling",
+        "organization": "The Department of Parks & Recreation",
+        "description": [
+            "Help protect the St. Joseph River from trash and pollution by applying labels to stormwater drains which lead to the river."
+        ],
+        "numpeople": "6",
+        "isfull": false
+    },
+    {
+        "name": "Art Crosswalk",
+        "short_description": "More painting!!!",
+        "organization": "City of South Bend",
+        "description": [
+            "Paint fun, eye-catching crosswalk art."
+        ],
+        "numpeople": "8-16",
+        "isfull": false
+    }
+    {
+        "name": "Rebuilding Together",
+        "short_description": "Restocking supplies",
+        "organization": "Rebuilding Together",
+        "description": [
+            "Rebuilding Together is a nonprofit, community-based partnership of volunteers from local government, businesses, and other nonprofits that rehabilitate the homes of low-income homeowners and improve neighborhoods. Help them out by volunteering to restock their facilities.",
+        ],
+        "numpeople": "10",
+        "isfull": false
     }
 ]
