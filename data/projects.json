@@ -17,7 +17,7 @@
             "Help Indiana Landmarks finish up the interior painting and install landscaping on this historic tiny house. At less than 900 square feet, the home was saved from demolition last year and will soon be for sale. Help paint interior rooms or install landscape plants and mulch."
         ],
         "numpeople": "6 - Landscaping; 10 - Painting",
-        "isfull": false
+        "isfull": true
     },
     {
         "name": "Unity Gardens Volunteer Opportunities",
@@ -48,7 +48,7 @@
             "Also, help with cleanup and restore an ampitheater in one of South Bend's beautiful, historic parks."
         ],
         "numpeople": "30-40",
-        "isfull": false
+        "isfull": true
     },
     {
         "name": "Kelly Park Cleanup",
@@ -128,7 +128,7 @@
             "Paint fun, eye-catching crosswalk art."
         ],
         "numpeople": "8-16",
-        "isfull": false
+        "isfull": true
     },
     {
         "name": "Rebuilding Together",
