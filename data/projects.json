@@ -140,4 +140,15 @@
         "numpeople": "10",
         "isfull": false
     }
+
+        {
+        "name": "Keep The Lead Away: Mulch Madness",
+        "short_description": "Mulching around homes to prevent lead exposure",
+        "organization": "The Near Northwest Neighborhood and Notre Dame Student Government",
+        "description": [
+            "Did you know South Bend has a major lead issue? Children's blood-lead levels in some areas have been documented to be more than twice the safe limit. Old leaded paint chips off of exterior walls and the lead particles find their way into the soil around peoples' homes. This unsafe dirt can get tracked and blown around to places where children can ingest the lead particles. Mulch Madness is one part of a many-pronged strategy to reduce lead exposure by covering bare, toxic soil around homes in the Near Northwest Neighborhood of South Bend. We aim to mulch over 200 homes with your help, as part of Back the Bend.​​​​​"
+        ],
+        "numpeople": "100",
+        "isfull": false
+    }
 ]
