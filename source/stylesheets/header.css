@@ -4,12 +4,12 @@ header#header-bar {
 }
 
 div#header-icon {
-  height: 90px;
+  height: 100px;
 }
 
 div#header-icon img {
   margin: 10px 0 10px 0;
-  height: 60px;
+  height: 90px;
 }
 
 div#header-icon a {

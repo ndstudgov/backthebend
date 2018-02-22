@@ -9,14 +9,18 @@ stylesheet: [page, project]
 <% content_for(:title, page_name) %>
 
 <div class="body-content">
+
+  <%= %(<div class="page-image-block" style="background-image: url(../images/project_images/#{project.image})"></div>) if project.image %>
+
   <div class="page-text-wrapper container-fluid">
     <div class="col-sm-4 col-sm-push-8 image-col">
-      <%= image_tag project.image if project.image %>
+      <%= %(<img src=../images/logo_images/#{project.logo}>) if project.logo %>
     </div>
     <div class="col-sm-8 col-sm-pull-4 project-col">
       <h2><%= project.name %></h2>
       <div class="page-accent-bar accent-left" <%= %(style="background-color: #{data.accentcolors["signup"]};") %> ></div>
       <p><em>Hosted by <%= project.organization %></em></p>
+      <%= %(<p><em>Location: #{project.address}</em></p>) if project.address %>
       <%= %(<p><em>Number of Volunteers Needed: #{project.numpeople}</em></p>) if project.numpeople %>
       <% project.description.each do |paragraph| %>
         <p><%= paragraph %></p>
@@ -25,7 +29,7 @@ stylesheet: [page, project]
       <% if project.isfull %>
         <button type="button" class="btn btn-default btn-md project-btn" disabled="disabled">Project is full, thanks for your interest!</a>
       <% else %>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLScVFqPg3HQLXKvUNfRyK4uixFayvyXxaG3hiXH0j8Oxk2yWSQ/viewform?usp=sf_link" class="btn btn-default btn-md project-btn" role="button">Sign Up Now!</a>
+        <%= %(<a href=#{project.doclink} class="btn btn-default btn-md project-btn" role="button">Sign Up Now!</a>) %>
       <% end %>
     </div>
   </div>
