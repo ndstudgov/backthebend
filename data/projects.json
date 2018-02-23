@@ -100,47 +100,45 @@
     },
     {
         "name": "Bowman Creek Cleanup",
-        "short_description": "Help clean and restore a troubled creek",
-        "organization": "City of South Bend",
+        "short_description": "Students will help clean up areas of Bowman Creek – a tributary of the St. Joseph River that runs through the Southeast Neighborhood.",
+        "organization": "Bowman Creek Educational Ecosystem",
         "description": [
-            "A few blocks west of Riley High School and right next to the Crooked Ewe Brewery, students will help cleanup the mouth of Bowman Creek--stretching from St. Joseph to Carroll Street.The University of Notre Dame, in collaboration with the City of South Bend and other local universities, is currently carrying out a plan to restore the two-mile long tributary from the significant pollution that has accumulated over the years"
+            "A few blocks from Riley High School and near the Crooked Ewe Brewery, students will help clean up areas of Bowman Creek – a tributary of the St. Joseph River that runs through the Southeast Neighborhood. The University of Notre Dame, in collaboration with the City of South Bend and other local universities, is currently carrying out a plan to restore the two-mile long tributary into an asset for the surrounding neighborhood. Students will help clean up trash and clear brush along the creek and bank edges, as well as learn about some of the exciting work that is going on in this neighborhood from members of the Bowman Creek Educational Ecosystem. Dress Specifications: Closed Toed shoes, long pants."
         ],
         "numpeople": "30",
+        "address_text": "Ravina Park",
+        "address_link": "https://goo.gl/maps/nTYBYxXkQGx", 
         "isfull": false,
-        "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSd4dK3ywTtEUE_INGmyMK0S2ccwXLbjoOrgOwovg_afTCk_Eg/viewform?usp=sf_link"
+        "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSd4dK3ywTtEUE_INGmyMK0S2ccwXLbjoOrgOwovg_afTCk_Eg/viewform?usp=sf_link",
+        "logo": "bowman.png"
     },
     {
         "name": "Fire Hydrant Painting",
-        "short_description": "Paint fire hydrants in historic South Bend",
-        "organization": "South Bend Public Works",
+        "short_description": "Paint fire hydrants around the City of South Bend",
+        "organization": "City of South Bend",
         "description": [
-            "Paint Bicentennial Soldier Fire Hydrants around historic South Bend and residential areas. Design is provided, but still calls for creativity!"
+            "Students will help to design and paint fire hydrants within South Bend, in order to beautify the neighborhoods. Dress Specifications: Closed toed shoes, long pants."
         ],
         "numpeople": "10",
+        "address_text": "Starts at the Robinson Center",
+        "address_link": "https://www.google.com/maps/place/Robinson+Community+Learning+Center+(RCLC)/@41.6875621,-86.2355227,15z/data=!4m5!3m4!1s0x0:0x2695462633100c5b!8m2!3d41.6875621!4d-86.2355227",
         "isfull": false,
-        "doclink": "https://goo.gl/forms/PECEHDcDoY3fWUEt1"
+        "doclink": "https://goo.gl/forms/PECEHDcDoY3fWUEt1",
+        "logo": "p-city-of-south-bend.png"
     },
     {
-        "name": "Keep South Bend's Water Clean!",
-        "short_description": "Storm drain labeling",
-        "organization": "South Bend Public Works",
+        "name": "Storm Drain Labeling",
+        "short_description": "Install storm drain labels around the City of South Bend",
+        "organization": "City of South Bend",
         "description": [
-            "Help protect the St. Joseph River from trash and pollution by applying labels to stormwater drains which lead to the river."
+            "Help protect the St. Joseph River from trash and pollution by applying labels to stormwater drains which lead to the river. This helps to preserve our beautiful river and natural spaces for future generations to enjoy. Dress Specifications: Closed toed shoes, long pants."
         ],
         "numpeople": "10",
+        "address_text": "Start at Robinson Center",
+        "address_link": "https://www.google.com/maps/place/Robinson+Community+Learning+Center+(RCLC)/@41.6875621,-86.2355227,15z/data=!4m5!3m4!1s0x0:0x2695462633100c5b!8m2!3d41.6875621!4d-86.2355227",
         "isfull": false,
-        "doclink": "https://docs.google.com/forms/d/e/1FAIpQLScbQN3LtmLgIb98wBupZYy2JFTuh3HtXofqFdgo8TfraPNv6Q/viewform?usp=sf_link"
-    },
-    {
-        "name": "Art Crosswalk",
-        "short_description": "Paint fun, eye-catching crosswalk art.",
-        "organization": "South Bend Public Works",
-        "description": [
-            "Paint fun, eye-catching crosswalk art."
-        ],
-        "numpeople": "10",
-        "isfull": false,
-        "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSfcp6v8bMRZb8RAm9akXVb_YNymq7j4fPObWoZOyscDEXGAcA/viewform?usp=sf_link"
+        "doclink": "https://docs.google.com/forms/d/e/1FAIpQLScbQN3LtmLgIb98wBupZYy2JFTuh3HtXofqFdgo8TfraPNv6Q/viewform?usp=sf_link",
+        "logo": "p-city-of-south-bend.png"
     },
     {
         "name": "Care for Senior Citizens' Homes",
