@@ -10,7 +10,8 @@
         "isfull": false,
         "image": "mulch.jpg",
         "logo": "lead_away.png",
-        "address": "1007 Portage Ave, South Bend, IN 46616",
+        "address_text": "1007 Portage Ave, South Bend, IN 46616",
+        "address_link": "https://www.google.com/maps/place/Near+Northwest+Neighborhood/@41.6880724,-86.2627231,15z/data=!4m5!3m4!1s0x0:0x42ce8c8a58602dbd!8m2!3d41.6880724!4d-86.2627231",
         "doclink": "https://docs.google.com/forms/d/e/1FAIpQLScOeERzmRdlLHjMM0z6ZkqHl4_FYF1ESrSHl1H5BAILqqHb-g/viewform?usp=sf_link"
     },
     {
@@ -22,7 +23,6 @@
         "isfull": false,
         "image": "rebuilding_together.jpg",
         "logo": "p-rebuilding-together.png",
-        //"address":
         "doclink": "https://docs.google.com/forms/d/e/1FAIpQLScOeERzmRdlLHjMM0z6ZkqHl4_FYF1ESrSHl1H5BAILqqHb-g/viewform?usp=sf_link"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
         "name": "Historic Mills House Project",
-        "short_description": "Interior painting and outdoor landscaping of Historic Tiny House",
+        "short_description": "Interior painting and outdoor landscaping of Historic Mills House",
         "organization": "Indiana Landmarks",
         "description": [
             "Help Indiana Landmarks finish up the interior painting and install landscaping on this historic tiny house. At less than 900 square feet, the home was saved from demolition last year and will soon be for sale. Help paint interior rooms or install landscape plants and mulch."
@@ -62,7 +62,8 @@
         "name": "Robinson Community Learning Center",
         "short_description": "Restore outdoor murals",
         "organization": "Robinson Community Learning Center",
-        "address": "921 N Eddy St, South Bend, IN 46617",
+        "address_text": "921 N Eddy St, South Bend, IN 46617",
+        "address_link": "https://www.google.com/maps/place/Robinson+Community+Learning+Center+(RCLC)/@41.6875621,-86.2355227,15z/data=!4m5!3m4!1s0x0:0x2695462633100c5b!8m2!3d41.6875621!4d-86.2355227",
         "description": [
             "The Robinson Community Learning Center (RCLC) was started in 2001 as an off-campus educational initiative of the President’s Office at the University of Notre Dame in partnership with Northeast Neighborhood residents of South Bend. Volunteers will be repainting 15 of their exterior murals at the Center."
         ],
@@ -74,7 +75,8 @@
         "name": "Leeper Park",
         "short_description": "Paint the stage in Leeper park and redesign flower beds",
         "organization": "South Bend Venues, Parks, and Arts",
-        "address": "907 Riverside Dr, South Bend, IN 46616",
+        "address_text": "907 Riverside Dr, South Bend, IN 46616",
+        "address_link": "https://www.google.com/maps/place/907+Riverside+Dr,+South+Bend,+IN+46616/@41.6865514,-86.2566981,17z/data=!3m1!4b1!4m5!3m4!1s0x8816cd4cfcc88349:0x3d9200771fd1f810!8m2!3d41.6865474!4d-86.2545094",
         "description": [
             "Help prepare Leeper Park for a relaxing, beautiful lavender labyrinth landscape feature which will serve the students of Madison Primary Center for years to come. Volunteers will help with basic concrete work and site preparation.",
             "Also, help with cleanup and restore an ampitheater in one of South Bend's beautiful, historic parks."
@@ -90,7 +92,8 @@
         "description": [
             "Volunteers will work at  Kelly Park on a series of beautifying and cleanup projects to promote the general health and look of the grounds."
         ],
-        "address": "Kelly Park, South Bend IN 46617",
+        "address_text": "Kelly Park, South Bend IN 46617",
+        "address_link": "https://www.google.com/maps/place/Kelly+Park,+South+Bend,+IN+46617/@41.6881121,-86.2419261,17z/data=!3m1!4b1!4m5!3m4!1s0x8816cd4315f579fd:0x2309419722551890!8m2!3d41.687962!4d-86.2398256",
         "numpeople": "30",
         "isfull": false,
         "doclink": "https://docs.google.com/forms/d/e/1FAIpQLScUt9LZaqs4m9-96JRfMdro0GJ9DJVcmq6iZo_up-K1RLNmzA/viewform?usp=sf_link"
@@ -108,7 +111,7 @@
     },
     {
         "name": "Fire Hydrant Painting",
-        "short_description": "Paint fire hydrants is historic South Bend",
+        "short_description": "Paint fire hydrants in historic South Bend",
         "organization": "South Bend Public Works",
         "description": [
             "Paint Bicentennial Soldier Fire Hydrants around historic South Bend and residential areas. Design is provided, but still calls for creativity!"
