@@ -1,0 +1,34 @@
+---
+title: Back the Bend
+active_page: schedule
+stylesheet: [page]
+page_name: schedule
+---
+
+<% page_name = current_page.data.page_name %>
+
+<div class="body-content">
+<!--   <%= %(<div class="page-image-block" style="background-image: url(images/#{data.pageimages[page_name]})"></div>) if data.pageimages[page_name] %> -->
+  <div class="page-text-wrapper">
+    
+    <div class="container">
+    <div class="col-md-6">
+    <img src="images/schedule.jpg" class="img-fluid">
+    </div>
+    <div class="col-md-6">
+    <h1>Event Schedule</h1>
+    <div class="page-accent-bar accent-centered" <%= %(style="background-color: #{data.accentcolors[page_name]};") if data.accentcolors[page_name] %> ></div>
+      <div style="text-align:center;">
+      <h4>Saturday, April 14th</h4>
+      <p>10:00 am - Opening Ceremony, Irish Green</p>
+      <p>10:45 am - Depart for project sites</p>
+      <p>11:00 am - Arrive at project sites</p>
+      <p>2:45 pm - Finish work at project sites and depart</p>
+      <p>3:00 pm - Picnic at the Robinson Community Learning Center</p>
+      </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
