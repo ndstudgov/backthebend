@@ -12,40 +12,19 @@
         "logo": "lead_away.png",
         "address_text": "1007 Portage Ave, South Bend, IN 46616",
         "address_link": "https://www.google.com/maps/place/Near+Northwest+Neighborhood/@41.6880724,-86.2627231,15z/data=!4m5!3m4!1s0x0:0x42ce8c8a58602dbd!8m2!3d41.6880724!4d-86.2627231",
-        "doclink": "https://docs.google.com/forms/d/e/1FAIpQLScOeERzmRdlLHjMM0z6ZkqHl4_FYF1ESrSHl1H5BAILqqHb-g/viewform?usp=sf_link"
+        "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSdJ4nnx0AhtMBMX2a1AZ9TYxtYH0Ef6g0RnSHimu0CIlS9ljQ/viewform?usp=sf_link"
     },
     {
         "name": "Rebuilding Together: Community Day",
         "short_description": "Help rehabilitate the homes of low-income homeowners and improve neighborhoods",
         "organization": "Rebuilding Together",
-        "description": ["Rebuilding Together is a nonprofit, community-based partnership of volunteers from local government, businesses, and other nonprofits that rehabilitate the homes of low-income homeowners and improve neighborhoods. Help to make vital home repairs for neighbors on this Community Day, April 14th. The day usually starts at 8:00 a.m. and concludes when home repairs are finished (likely around 4:00 p.m.), breakfast, lunch and refreshments provided. Please wear items for outdoor and household work; closed-toe shoes as we will be painting, doing yard work, cleaning and other necessary tasks."],
-        "numpeople": "30",
+        "description": ["Rebuilding Together is a nonprofit, community-based partnership of volunteers from local government, businesses, and other nonprofits that rehabilitate the homes of low-income homeowners and improve neighborhoods. Help to make vital home repairs for neighbors on this Community Day, April 14th. The day usually starts at 8:00 a.m. and concludes when home repairs are finished (likely around 4:00 p.m.), breakfast, lunch and refreshments provided. Please wear items for outdoor and household work; closed-toe shoes as we will be painting, doing yard work, cleaning and other necessary tasks."
+        ],
+        "numpeople": "60",
         "isfull": false,
         "image": "rebuilding_together.jpg",
         "logo": "p-rebuilding-together.png",
         "doclink": "https://docs.google.com/forms/d/e/1FAIpQLScOeERzmRdlLHjMM0z6ZkqHl4_FYF1ESrSHl1H5BAILqqHb-g/viewform?usp=sf_link"
-    },
-    {
-        "name": "Historic Kizer House Project",
-        "short_description": "Interior Demolition of the Historic Kizer House",
-        "organization": "Indiana Landmarks",
-        "description": [
-            "Assist Indiana Landmarks in pre-construction demolition of interior spaces as it readies the building for community meeting space, receptions, gallery and office uses.  Work will involve removing flooring, plaster, drywall and wood partitions. Wear closed toe shoes. No shorts."
-        ],
-        "numpeople": "40",
-        "isfull": false,
-        "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSc-qwNK-P8yY6t4KbfeCaR42PfLWFgz6vS4ll6YL3KCLEH6QQ/viewform?usp=sf_link"
-    },
-    {
-        "name": "Historic Mills House Project",
-        "short_description": "Interior painting and outdoor landscaping of Historic Mills House",
-        "organization": "Indiana Landmarks",
-        "description": [
-            "Help Indiana Landmarks finish up the interior painting and install landscaping on this historic tiny house. At less than 900 square feet, the home was saved from demolition last year and will soon be for sale. Help paint interior rooms or install landscape plants and mulch."
-        ],
-        "numpeople": "15",
-        "isfull": false,
-        "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSfM1cpRrUm9GJ8cHq4fgSsSKsjkGs5s2Y0C9oyKpd49DY39gg/viewform?usp=sf_link"
     },
     {
         "name": "Unity Gardens",
@@ -58,9 +37,41 @@
         ],
         "numpeople": "100",
         "isfull": false,
+        "logo": "p-unity-gardens.jpg",
+        "image": "unity_gardens.jpg",
         "address_text": "3701 Prast Blvd. South Bend, IN 46628",
         "address_link": "https://www.google.com/maps/place/3701+Prast+Blvd,+South+Bend,+IN+46628/@41.6864051,-86.3027264,17z/data=!3m1!4b1!4m5!3m4!1s0x88113263e127e869:0x697bf9f556a37209!8m2!3d41.6864051!4d-86.3005377",
         "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSdVeZPrbVNpDr5j5w4O6TmwLNyD6ynTqs3DStcE21YXZQ4zPA/viewform?usp=sf_link"
+    },
+    {
+        "name": "Kizer House Interior Demolition",
+        "short_description": "Interior demolition of interior walls, flooring and fixtures to ready house for future restoration",
+        "organization": "Indiana Landmarks",
+        "description": [
+            "Join in completing interior demolition at the historic Kizer House in South Bend. The work will involve removing drywall and plaster, walls, old flooring and bathrooms on the interior of the house as Indiana Landmarks readies the site for further restoration. The work will involve lifting, use of prybars and hammers, carrying. The project will help save $20,000 of cost that Indiana Landmarks would have to spend reading the site for community use, office and housing. Please wear long pants and closed-toed shoes."
+        ],
+        "numpeople": "30",
+        "address_link": "https://www.google.com/maps/place/801+W+Washington+St,+South+Bend,+IN+46601/@41.6766094,-86.2638599,17z/data=!3m1!4b1!4m5!3m4!1s0x881132c95e6f4823:0x8b075bf94541cda9!8m2!3d41.6766094!4d-86.2616712",
+        "address_text": "801 W. Washington, South Bend, IN 46601",
+        "isfull": false,
+        "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSc-qwNK-P8yY6t4KbfeCaR42PfLWFgz6vS4ll6YL3KCLEH6QQ/viewform?usp=sf_link",
+        "logo": "p-indiana-landmarks.jpg",
+        "image": "kizer_house.jpg"
+    },
+    {
+        "name": "Mills House Interior Painting",
+        "short_description": "Help paint the inside of the Historic Mills House",
+        "organization": "Indiana Landmarks",
+        "description": [
+            "Complete the interior painting of the walls and trim of the historic Mills House as it is readied for sale to a new homeowner. The project will save Indiana Landmarks $7,500 of cost and assist the new homeowner as they prepare to move into the house in May. Please do not wear open-toed shoes."
+        ],
+        "numpeople": "12",
+        "isfull": false,
+        "logo": "p-indiana-landmarks.jpg",
+        "image": "mills_house.jpg",
+        "address_link": "https://www.google.com/maps/place/607+Leland+Ave,+South+Bend,+IN+46616/@41.6829549,-86.2607625,17z/data=!3m1!4b1!4m5!3m4!1s0x881132b4fbac4445:0x6fc9ff2846a18e1a!8m2!3d41.6829549!4d-86.2585738",
+        "address_text": "607 Leland Street, South Bend, Indiana",
+        "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSfM1cpRrUm9GJ8cHq4fgSsSKsjkGs5s2Y0C9oyKpd49DY39gg/viewform?usp=sf_link"
     },
     {
         "name": "Robinson Community Learning Center",
@@ -75,6 +86,8 @@
         ],
         "numpeople": "15",
         "isfull": false,
+        "image": "robinson_paint.jpg",
+        "logo": "p-rclc.gif",
         "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSfXnxLfj6u7J_blbMwxWqZAftABL3HVPlivqu2zjB_RiYNE3A/viewform?usp=sf_link"
     },
     {
@@ -86,6 +99,8 @@
         "description": [
             "Leeper Park with the assistance of Beacon Memorial Hospital and Madison Primary has developed educational pieces through science and hands on learning in the park. There are several small gardens that the students can plant, maintain, and see how growth happens first hand. You can help by turning the soil and preparing the flower beds for spring planting by the Madison Primary students."
         ],
+        "logo": "vpa.png",
+        "image": "leeper_park_sign.png",
         "numpeople": "20",
         "isfull": false,
         "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSdUnYr9LR2O0FMO-ODFT3Q3AYcqL9ScUNLodU9kq8kf3jxYYg/viewform?usp=sf_link"
@@ -99,8 +114,11 @@
         "description": [
             "Leeper Park is a historic park in downtown South Bend. VPA works very closely with the Historic Preservation Society to keep the feeling and presence of the park in line with the Kessler theme of over 100 years ago."
         ],
+        "logo": "vpa.png",
+        "image": "leeper_park_east.jpg",
         "doclink": "https://docs.google.com/forms/d/1xuTPODsOwlpfAp_XK9UKXCgYu-w107UE5O8EDWg5Ts4/edit",
-        "numpeople": "6"
+        "numpeople": "6",
+        "isfull": false
     },
     {
         "name": "Kelly Park",
@@ -111,8 +129,10 @@
         ],
         "address_text": "Kelly Park, South Bend IN 46617",
         "address_link": "https://www.google.com/maps/place/Kelly+Park,+South+Bend,+IN+46617/@41.6881121,-86.2419261,17z/data=!3m1!4b1!4m5!3m4!1s0x8816cd4315f579fd:0x2309419722551890!8m2!3d41.687962!4d-86.2398256",
-        "numpeople": "30",
+        "numpeople": "15",
         "isfull": false,
+        "logo": "p-northeast.png",
+        "image": "kelly_park.jpg",
         "doclink": "https://docs.google.com/forms/d/e/1FAIpQLScUt9LZaqs4m9-96JRfMdro0GJ9DJVcmq6iZo_up-K1RLNmzA/viewform?usp=sf_link"
     },
     {
@@ -127,7 +147,8 @@
         "address_link": "https://goo.gl/maps/nTYBYxXkQGx", 
         "isfull": false,
         "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSd4dK3ywTtEUE_INGmyMK0S2ccwXLbjoOrgOwovg_afTCk_Eg/viewform?usp=sf_link",
-        "logo": "bowman.png"
+        "logo": "bowman.png",
+        "image": "bowman.png"
     },
     {
         "name": "Fire Hydrant Painting",
@@ -142,6 +163,7 @@
         "isfull": false,
         "doclink": "https://goo.gl/forms/PECEHDcDoY3fWUEt1",
         "logo": "p-city-of-south-bend.png"
+        // "image": "fire_hydrant.jpg"
     },
     {
         "name": "Keep South Bend's Water Clean!",
@@ -156,17 +178,33 @@
         "isfull": false,
         "doclink": "https://docs.google.com/forms/d/e/1FAIpQLScbQN3LtmLgIb98wBupZYy2JFTuh3HtXofqFdgo8TfraPNv6Q/viewform?usp=sf_link",
         "logo": "p-city-of-south-bend.png"
+        // "image": "water_clean.jpg"
     },
     {
-        "name": "Care for Senior Citizens' Homes",
-        "short_description": "Spring clean-up activitis for the homes of senior citizens",
-        "organization": "Real Services",
+        "name": "REAL Services, Inc.: Community Day",
+        "short_description": "Enjoy a one on one experience with a homebound senior",
+        "organization": "REAL Services",
         "description": [
-            ""
+            "The mission of REAL Services is to assist in establishing a community in which those we serve can maintain their independence to the maximum degree possible and find meaning and satisfaction throughout their lives.  REAL Services volunteers are caring individuals who are a key resource in fulfilling the REAL mission. REAL Services volunteers make a difference in the lives of the elderly and disabled, every day.  Help a local senior remain safely and independently as possible by helping them with simple indoor/outdoor projects on this Community Day, April 14th.  Please were clothing for indoor/outdoor type projects and please wear closed-toe shoes as we will be doing spring cleaning in the yard and in the home."
         ],
         "numpeople": "50",
+        "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSfG9ZiDvrv_aUnf1wda2K2C0IVl1li6KaxF_0DM39sagTza0w/viewform?usp=sf_link",
+        "logo": "real_services.jpg"
+    },
+    {
+        "name": "DTSB Parking Garage Painting",
+        "short_description": "Painting yellow caution paint in Downtown South Bend parking garages",
+        "organization": "Downtown South Bend",
+        "address_text": "217 S. Michigan St",
+        "address_link": "https://www.google.com/maps/place/The+Pigeon+and+The+Hen+Pottery/@41.6742617,-86.252777,17z/data=!3m1!4b1!4m5!3m4!1s0x8816cd3148b67953:0x433514ce58498b66!8m2!3d41.6742617!4d-86.2505883",
+        "description": [
+            "DTSB is a non-profit organization in downtown South Bend that through its tireless efforts is helping raise awareness of all of the fun possibilities that are going on for all ages. Students will help touch up the yellow caution paint in the three parking garages managed by Downtown South Bend, adding to the safety and security of our downtown garages."
+        ],
+        "numpeople": "10",
         "isfull": false,
-        "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSfG9ZiDvrv_aUnf1wda2K2C0IVl1li6KaxF_0DM39sagTza0w/viewform?usp=sf_link"
+        "logo": "dtsb.jpg",
+        "image": "parking.jpg",
+        "doclink": "https://docs.google.com/forms/d/1K6e1UgtxB6EiZyDb41qK0NvdSn0M1IhxP37YoVetI84/edit"
     },
     {
         "name": "Century Center",
@@ -178,18 +216,23 @@
         "address_text": "Century Center",
         "address_link": "https://www.google.com/maps/place/Century+Center/@41.6760068,-86.2480065,15z/data=!4m2!3m1!1s0x0:0x80e5bac8d3509229?sa=X&ved=0ahUKEwjnr-Tb-MTZAhVBXq0KHbzsBoMQ_BIIlQEwDQ",
         "numpeople": "10",
+        "isfull": false,
+        "logo": "vpa.png",
+        "image": "century_center.jpg",
         "doclink": "https://docs.google.com/forms/d/17P5mwaPkl5gRQnGgDv8HsRodzBetF2-8_1L4Piou-yI/edit"
     },
     {
-        "name": "Paint the Main Street Parking Garage",
-        "short_description": "Paint the stripes, poles, and lines leading into the Main Street garage",
-        "organization": "Downtown South Bend",
-        "address_text": "Main & Colfax Garage",
-        "address_link": "https://www.google.com/maps/place/Main+%26+Colfax+Garage/@41.6773827,-86.2536807,17z/data=!3m1!4b1!4m5!3m4!1s0x8816cd35d540a691:0x2bca70922fe1c1af!8m2!3d41.6773787!4d-86.251492",
+        "name": "Center for the Homeless: Beautify our Garden",
+        "short_description": "Weed, rake, and clean the community garden to prepare it for Spring!",
+        "organization": "The Center for the Homeless",
+        "address_link": "https://www.google.com/maps/place/Center+For+the+Homeless/@41.6656536,-86.2503443,15z/data=!4m2!3m1!1s0x0:0x6c3c54e55b914793?sa=X&ved=0ahUKEwiFh7nE0tjZAhXD5IMKHeu-AGsQ_BIIkwEwDA",
+        "address_text": "Center for the Homeless",
         "description": [
-            "DTSB is a non-profit organization in downtown South Bend that through its tireless efforts is helping raise awareness of all of the fun possibilities that are going on for all ages. You can help keep this important downtown parking garage in top condition."
+            "The community garden at the Center for the Homeless is a space for our guests to utilize in the spring and summer months. Guests are able to use this area as not only a garden, but as a learning space. Guests learn about caring for creation, gardening, and are able to use this as a space to relax. The Center needs people to beautify the garden after the cold winter months. Activities will include weeding, raking, and cleaning any trash to ensure it is ready for flowers to be planted. Please park on the street or in our parking lot located off of Sample and Michigan St."
         ],
         "numpeople": "10",
-        "doclink": "https://docs.google.com/forms/d/1K6e1UgtxB6EiZyDb41qK0NvdSn0M1IhxP37YoVetI84/edit"
+        "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSe_aeGv9iEXmfEndaAhMUrZoBenn9vwIpEGJDjGxbq8SCFtNA/viewform?usp=sf_link",
+        "logo": "center_for_the_homeless.jpg",
+        "image": "center_for_the_homeless.jpg"
     }
 ]
