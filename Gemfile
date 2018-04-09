@@ -18,5 +18,6 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 # Deploy
 gem "middleman-deploy", "~> 1.0"
 
-# Google maps
+# Google map
 gem 'google_maps_service'
+
