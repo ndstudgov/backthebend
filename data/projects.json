@@ -231,6 +231,7 @@
             "The community garden at the Center for the Homeless is a space for our guests to utilize in the spring and summer months. Guests are able to use this area as not only a garden, but as a learning space. Guests learn about caring for creation, gardening, and are able to use this as a space to relax. The Center needs people to beautify the garden after the cold winter months. Activities will include weeding, raking, and cleaning any trash to ensure it is ready for flowers to be planted. Please park on the street or in our parking lot located off of Sample and Michigan St."
         ],
         "numpeople": "10",
+        "isfull": false,
         "doclink": "https://docs.google.com/forms/d/e/1FAIpQLSe_aeGv9iEXmfEndaAhMUrZoBenn9vwIpEGJDjGxbq8SCFtNA/viewform?usp=sf_link",
         "logo": "center_for_the_homeless.jpg",
         "image": "center_for_the_homeless.jpg"
@@ -244,9 +245,10 @@
 	"description" : [
 	    "Help repair the home of Mrs. Duke, whose house was recently struck by an uninsured drunk driver. Mrs. Duke is a caregiver for patients with dementia. She cannot afford the cost of repairs to her home and banks will not loan her the necessary money. Volunteers will work to repair the foundation and exterior paint."
 	],
+	"isfull": false,
 	"numpeople" : "25",
 	"doclink" : "https://docs.google.com/forms/d/e/1FAIpQLScD3ys1c3Ee7fyITk_h4rCyi8ICZHcZ6KeqtW5zY2y_WaaLow/viewform?usp=sf_link",
-	"logo" : "help-repair-house.jpg",
+	// "logo" : "help-repair-house.jpg",
 	"image": "help-repair-house.jpg"
     }	
 ]
